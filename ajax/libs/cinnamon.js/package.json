@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/thomaspark/cinnamon.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/thomaspark/cinnamon.js.git",
     "basePath": "",
     "files": [
       "cinnamon*.js"

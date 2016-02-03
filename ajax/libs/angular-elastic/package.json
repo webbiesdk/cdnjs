@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/monospaced/angular-elastic.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/monospaced/angular-elastic.git",
     "basePath": "",
     "files": [
       "elastic*.js"

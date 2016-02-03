@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/openexchangerates/money.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/openexchangerates/money.js.git",
     "basePath": "",
     "files": [
       "money.js",

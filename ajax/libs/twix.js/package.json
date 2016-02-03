@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/icambron/twix.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/icambron/twix.js.git",
     "basePath": "bin",
     "files": [
       "twix.js",

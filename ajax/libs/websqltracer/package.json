@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/terikon/webSqlTracer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/terikon/webSqlTracer.git",
     "basePath": "/dist/",
     "files": [
       "webSqlTracer.min.js",

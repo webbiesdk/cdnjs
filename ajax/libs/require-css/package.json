@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/guybedford/require-css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/guybedford/require-css.git",
     "basePath": "",
     "files": [
       "css.js",

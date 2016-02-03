@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/McNull/angular-block-ui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/McNull/angular-block-ui.git",
     "basePath": "dist",
     "files": [
       "*.+(js|map|css)"

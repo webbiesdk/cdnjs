@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/stephan-fischer/jQuery-LiveUrl.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/stephan-fischer/jQuery-LiveUrl.git",
     "basePath": "",
     "files": [
       "jquery.liveurl.js"

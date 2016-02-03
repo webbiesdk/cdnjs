@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/KevinSheedy/jquery.alphanum.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/KevinSheedy/jquery.alphanum.git",
     "basePath": "",
     "files": [
       "jquery.alphanum*.js"

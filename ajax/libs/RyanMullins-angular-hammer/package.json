@@ -19,7 +19,7 @@
   "homepage": "http://ryanmullins.github.io/angular-hammer/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/RyanMullins/angular-hammer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/RyanMullins/angular-hammer.git",
     "basePath": "",
     "files": [
       "angular.hammer*.+(js|map)"

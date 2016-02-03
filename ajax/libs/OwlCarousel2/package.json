@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/smashingboxes/OwlCarousel2.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/smashingboxes/OwlCarousel2.git",
     "basePath": "dist",
     "files": [
       "**/*"

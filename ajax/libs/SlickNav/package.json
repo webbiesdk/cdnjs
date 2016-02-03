@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ComputerWolf/SlickNav.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ComputerWolf/SlickNav.git",
     "basePath": "dist",
     "files": [
       "*"

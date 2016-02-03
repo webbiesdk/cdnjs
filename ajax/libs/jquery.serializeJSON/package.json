@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marioizquierdo/jquery.serializeJSON.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marioizquierdo/jquery.serializeJSON.git",
     "basePath": "",
     "files": [
       "jquery.serializejson*.js"

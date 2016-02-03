@@ -32,7 +32,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pavelk2/social-feed.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/pavelk2/social-feed.git",
     "basePath": "",
     "files": [
       "css/jquery.socialfeed.*",

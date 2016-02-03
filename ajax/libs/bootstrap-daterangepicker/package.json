@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dangrossman/bootstrap-daterangepicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dangrossman/bootstrap-daterangepicker.git",
     "basePath": "",
     "files": [
       "daterangepicker*.js",

@@ -18,7 +18,7 @@
   "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/masayuki0812/c3.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/masayuki0812/c3.git",
     "basePath": "",
     "files": [
       "c3.css",

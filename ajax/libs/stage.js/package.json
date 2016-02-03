@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/shakiba/stage.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/shakiba/stage.js.git",
     "basePath": "dist",
     "files": [
       "stage.cordova.js",

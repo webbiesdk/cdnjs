@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wellcaffeinated/PhysicsJS.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wellcaffeinated/PhysicsJS.git",
     "basePath": "dist",
     "files": [
       "**/*"

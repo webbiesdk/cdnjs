@@ -16,7 +16,7 @@
   "filename": "oj.markdown.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ojjs/oj.markdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ojjs/oj.markdown.git",
     "basePath": "",
     "files": [
       "oj.markdown.js"

@@ -19,7 +19,7 @@
   "dependencies": {},
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ErikSchierboom/knockout-pre-rendered.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ErikSchierboom/knockout-pre-rendered.git",
     "basePath": "/dist/",
     "files": [
       "knockout-pre-rendered.min.js",

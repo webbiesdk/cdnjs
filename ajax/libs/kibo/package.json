@@ -17,7 +17,7 @@
   "filename": "kibo.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marquete/kibo.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marquete/kibo.git",
     "basePath": "",
     "files": [
       "kibo.min.js"

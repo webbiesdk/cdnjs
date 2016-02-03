@@ -21,7 +21,7 @@
   "filename": "cookies-monster.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/cookies-monster.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/cookies-monster.git",
     "basePath": "build",
     "files": [
       "cookies-monster.js",

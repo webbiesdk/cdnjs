@@ -22,7 +22,7 @@
   "filename": "dom4.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/dom4.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/dom4.git",
     "basePath": "/build/",
     "files": [
       "dom4.js",

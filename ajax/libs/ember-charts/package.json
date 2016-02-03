@@ -14,7 +14,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Addepar/ember-charts.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Addepar/ember-charts.git",
     "basePath": "dist",
     "files": [
       "*"

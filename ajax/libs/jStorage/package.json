@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/andris9/jStorage.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/andris9/jStorage.git",
     "basePath": "",
     "files": [
       "jstorage.js",

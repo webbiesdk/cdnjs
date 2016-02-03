@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/tooltip.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/tooltip.git",
     "basePath": "dist",
     "files": [
       "**/*"

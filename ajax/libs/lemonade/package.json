@@ -16,7 +16,7 @@
   "homepage": "http://lemonade.im",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dope/lemonade.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dope/lemonade.git",
     "basePath": "css",
     "files": [
       "lemonade*.css"

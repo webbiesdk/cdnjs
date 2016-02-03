@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rniemeyer/knockout-sortable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rniemeyer/knockout-sortable.git",
     "basePath": "build",
     "files": [
       "*"

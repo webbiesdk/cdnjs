@@ -10,7 +10,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/strophe/strophejs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/strophe/strophejs.git",
     "basePath": "",
     "files": [
       "strophe.js",

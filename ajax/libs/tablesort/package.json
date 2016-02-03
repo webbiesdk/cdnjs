@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tristen/tablesort.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tristen/tablesort.git",
     "basePath": "",
     "files": [
       "tablesort*.js",

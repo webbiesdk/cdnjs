@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mrdoob/stats.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mrdoob/stats.js.git",
     "basePath": "src",
     "files": [
       "Stats.js"

@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lukehaas/Scrollify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lukehaas/Scrollify.git",
     "basePath": "",
     "files": [
       "jquery.scrollify.js",

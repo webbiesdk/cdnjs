@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/josdejong/mathjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/josdejong/mathjs.git",
     "basePath": "dist",
     "files": [
       "**/*"

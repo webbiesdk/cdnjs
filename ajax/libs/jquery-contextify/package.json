@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/abeMedia/jquery-contextify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/abeMedia/jquery-contextify.git",
     "basePath": "dist",
     "files": [
       "*"

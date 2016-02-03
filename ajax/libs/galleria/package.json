@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aino/galleria.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/aino/galleria.git",
     "basePath": "src/",
     "files": [
       "**/*.gif",

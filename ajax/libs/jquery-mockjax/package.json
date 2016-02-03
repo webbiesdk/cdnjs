@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jakerella/jquery-mockjax.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jakerella/jquery-mockjax.git",
     "basePath": "",
     "files": [
       "jquery.mockjax*.js"

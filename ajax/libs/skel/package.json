@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/n33/skel.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/n33/skel.git",
     "basePath": "dist",
     "files": [
       "skel*"

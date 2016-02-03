@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/stephenhutchings/typicons.font.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/stephenhutchings/typicons.font.git",
     "basePath": "src/font/",
     "files": [
       "*.ttf",

@@ -22,7 +22,7 @@
   "dependencies": {},
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/maroslaw/rainyday.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/maroslaw/rainyday.js.git",
     "basePath": "dist",
     "files": [
       "*"

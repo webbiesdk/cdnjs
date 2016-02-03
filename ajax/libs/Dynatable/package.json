@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alfajango/jquery-dynatable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/alfajango/jquery-dynatable.git",
     "basePath": "",
     "files": [
       "jquery.dynatable.+(css|js)"

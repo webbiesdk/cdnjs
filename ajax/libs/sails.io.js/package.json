@@ -23,7 +23,7 @@
   "homepage": "https://github.com/balderdashy/sails.io.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/balderdashy/sails.io.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/balderdashy/sails.io.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

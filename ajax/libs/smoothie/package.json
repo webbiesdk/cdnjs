@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/joewalnes/smoothie.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/joewalnes/smoothie.git",
     "basePath": "",
     "files": [
       "smoothie.js"

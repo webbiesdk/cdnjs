@@ -32,7 +32,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/DataTables/ColVis.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/DataTables/ColVis.git",
     "basePath": "",
     "files": [
       "js/dataTables.colVis*.js",

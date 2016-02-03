@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/summernote/summernote.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/summernote/summernote.git",
     "basePath": "dist",
     "files": [
       "**/*"

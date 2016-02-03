@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sgruhier/typeahead-addresspicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sgruhier/typeahead-addresspicker.git",
     "basePath": "dist",
     "files": [
       "**/*"

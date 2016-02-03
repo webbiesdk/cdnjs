@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/l20n/builds.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/l20n/builds.git",
     "basePath": "",
     "files": [
       "l20n.js",

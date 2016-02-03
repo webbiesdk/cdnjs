@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nirvanatikku/jQuery-TubePlayer-Plugin.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nirvanatikku/jQuery-TubePlayer-Plugin.git",
     "basePath": "",
     "files": [
       "jQuery.tubeplayer*.js"

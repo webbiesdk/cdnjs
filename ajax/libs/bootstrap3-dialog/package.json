@@ -17,7 +17,7 @@
   "homepage": "http://nakupanda.github.io/bootstrap3-dialog",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nakupanda/bootstrap3-dialog.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nakupanda/bootstrap3-dialog.git",
     "basePath": "dist",
     "files": [
       "css/*",

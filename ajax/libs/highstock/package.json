@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/highslide-software/highstock-release.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/highslide-software/highstock-release.git",
     "basePath": "",
     "files": [
       "**/*.+(css|js|png)"

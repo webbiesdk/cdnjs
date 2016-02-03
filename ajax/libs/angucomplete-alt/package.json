@@ -12,7 +12,7 @@
   "dependencies": {},
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ghiden/angucomplete-alt.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ghiden/angucomplete-alt.git",
     "basePath": "dist",
     "files": [
       "angucomplete-alt.min.js"

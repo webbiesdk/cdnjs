@@ -10,7 +10,7 @@
   "author": "nnnick",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nnnick/Chart.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nnnick/Chart.js.git",
     "basePath": "",
     "files": [
       "Chart.min.js",

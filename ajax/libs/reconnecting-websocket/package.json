@@ -16,7 +16,7 @@
   "homepage": "https://github.com/joewalnes/reconnecting-websocket",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/joewalnes/reconnecting-websocket.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/joewalnes/reconnecting-websocket.git",
     "basePath": "",
     "files": [
       "reconnecting-websocket*.js"

@@ -20,7 +20,7 @@
   "homepage": "https://github.com/davidstutz/bootstrap-multiselect",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/davidstutz/bootstrap-multiselect.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/davidstutz/bootstrap-multiselect.git",
     "basePath": "dist",
     "files": [
       "**/*.+(js|css)"

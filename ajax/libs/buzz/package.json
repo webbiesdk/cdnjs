@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jaysalvat/buzz.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jaysalvat/buzz.git",
     "basePath": "dist",
     "files": [
       "*.js"

@@ -14,7 +14,7 @@
   "homepage": "https://github.com/zavoloklom/material-design-iconic-font",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zavoloklom/material-design-iconic-font.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zavoloklom/material-design-iconic-font.git",
     "basePath": "dist",
     "files": [
       "css/*",

@@ -10,7 +10,7 @@
   "author": "Bürocratik",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/burocratik/outdated-browser.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/burocratik/outdated-browser.git",
     "basePath": "outdatedbrowser",
     "files": [
       "outdatedbrowser.css",

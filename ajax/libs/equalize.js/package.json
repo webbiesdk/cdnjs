@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tsvensen/equalize.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tsvensen/equalize.js.git",
     "basePath": "js",
     "files": [
       "equalize.js",

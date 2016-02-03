@@ -12,7 +12,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui/ui-date.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angular-ui/ui-date.git",
     "basePath": "dist",
     "files": [
       "**/*"

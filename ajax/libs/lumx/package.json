@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lumapps/lumx.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lumapps/lumx.git",
     "basePath": "dist",
     "files": [
       "**/lumx*",

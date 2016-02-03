@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mgcrea/angular-strap.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mgcrea/angular-strap.git",
     "basePath": "dist/",
     "files": [
       "**/*"

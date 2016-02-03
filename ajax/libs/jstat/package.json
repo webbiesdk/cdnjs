@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jstat/jstat.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jstat/jstat.git",
     "basePath": "dist",
     "files": [
       "**/*"

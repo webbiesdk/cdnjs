@@ -11,7 +11,7 @@
   "homepage": "http://visionmedia.github.io/move.js/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/visionmedia/move.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/visionmedia/move.js.git",
     "basePath": "",
     "files": [
       "move.min.js",

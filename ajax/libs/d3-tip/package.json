@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Caged/d3-tip.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Caged/d3-tip.git",
     "basePath": "",
     "files": [
       "index.js"

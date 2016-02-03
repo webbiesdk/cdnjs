@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sandywalker/webui-popover.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sandywalker/webui-popover.git",
     "basePath": "dist",
     "files": [
       "**/*"

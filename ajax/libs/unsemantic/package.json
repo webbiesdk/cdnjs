@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nathansmith/unsemantic.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nathansmith/unsemantic.git",
     "basePath": "assets/stylesheets/",
     "files": [
       "unsemantic-grid*.css"

@@ -18,7 +18,7 @@
   "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zurb/foundation-sites.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zurb/foundation-sites.git",
     "basePath": "dist",
     "files": [
       "**/*"

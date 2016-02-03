@@ -20,7 +20,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lokku/jquery-nstslider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lokku/jquery-nstslider.git",
     "basePath": "dist",
     "files": [
       "**/*"

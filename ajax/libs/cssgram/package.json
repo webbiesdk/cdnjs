@@ -24,7 +24,7 @@
   "homepage": "https://github.com/una/CSSgram",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/una/CSSgram.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/una/CSSgram.git",
     "basePath": "source/css",
     "files": [
       "**/*"

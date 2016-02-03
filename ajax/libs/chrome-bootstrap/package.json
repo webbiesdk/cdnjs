@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/better-history/chrome-bootstrap.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/better-history/chrome-bootstrap.git",
     "basePath": "",
     "files": [
       "chrome-bootstrap.css",

@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/driftyco/ionicons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/driftyco/ionicons.git",
     "basePath": "",
     "files": [
       "css/*",

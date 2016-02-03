@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/javve/list.pagination.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/javve/list.pagination.js.git",
     "basePath": "dist/",
     "files": [
       "*"

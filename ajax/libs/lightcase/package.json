@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cbopp-art/lightcase.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cbopp-art/lightcase.git",
     "basePath": "src/",
     "files": [
       "@(js|css|fonts)/*lightcase*"

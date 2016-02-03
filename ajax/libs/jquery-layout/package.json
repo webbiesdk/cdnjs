@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/allpro/layout.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/allpro/layout.git",
     "basePath": "source/stable",
     "files": [
       "*.min.js",

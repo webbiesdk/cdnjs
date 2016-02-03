@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jschr/bootstrap-modal.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jschr/bootstrap-modal.git",
     "basePath": "",
     "files": [
       "css/bootstrap-modal*.css",

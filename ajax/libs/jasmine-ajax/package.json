@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jasmine/jasmine-ajax.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jasmine/jasmine-ajax.git",
     "basePath": "lib",
     "files": [
       "mock-ajax.js"

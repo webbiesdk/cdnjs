@@ -17,7 +17,7 @@
   "homepage": "http://www.dexie.org",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dfahlander/Dexie.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dfahlander/Dexie.js.git",
     "basePath": "dist/latest",
     "files": [
       "**/*"

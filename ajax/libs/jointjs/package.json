@@ -26,7 +26,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/clientIO/joint.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/clientIO/joint.git",
     "basePath": "dist",
     "files": [
       "**/*"

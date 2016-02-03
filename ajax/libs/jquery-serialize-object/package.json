@@ -19,7 +19,7 @@
   "license": "BSD-3-Clause",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/macek/jquery-serialize-object.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/macek/jquery-serialize-object.git",
     "basePath": "dist",
     "files": [
       "**/*"

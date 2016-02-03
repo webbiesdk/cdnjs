@@ -22,7 +22,7 @@
   "filename": "pivot.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nicolaskruchten/pivottable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nicolaskruchten/pivottable.git",
     "basePath": "dist",
     "files": [
       "*.min.js",

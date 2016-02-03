@@ -19,7 +19,7 @@
   "dependencies": {},
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ErikSchierboom/knockout-paging.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ErikSchierboom/knockout-paging.git",
     "basePath": "/dist/",
     "files": [
       "knockout-paging.min.js",

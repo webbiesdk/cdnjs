@@ -11,7 +11,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/OpenNTF/SocialSDK.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/OpenNTF/SocialSDK.git",
     "basePath": "assembly/cdnjs",
     "files": [
       "sbt-core-dojo-amd.js",

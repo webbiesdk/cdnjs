@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Imaginea/uvCharts.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Imaginea/uvCharts.git",
     "basePath": "dist",
     "files": [
       "uvcharts.js",

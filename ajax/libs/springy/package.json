@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dhotson/springy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dhotson/springy.git",
     "basePath": "",
     "files": [
       "springy*.js"

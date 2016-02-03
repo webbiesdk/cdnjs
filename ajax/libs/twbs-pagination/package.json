@@ -23,7 +23,7 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/esimakin/twbs-pagination.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/esimakin/twbs-pagination.git",
     "basePath": "",
     "files": [
       "jquery.twbsPagination*.js"

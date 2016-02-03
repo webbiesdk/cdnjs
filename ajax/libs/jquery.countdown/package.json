@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hilios/jQuery.countdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hilios/jQuery.countdown.git",
     "basePath": "dist",
     "files": [
       "**/*"

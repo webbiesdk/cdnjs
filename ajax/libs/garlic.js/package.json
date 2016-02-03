@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/guillaumepotier/Garlic.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/guillaumepotier/Garlic.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

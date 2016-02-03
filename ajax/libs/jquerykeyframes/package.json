@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Keyframes/jQuery.Keyframes.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Keyframes/jQuery.Keyframes.git",
     "basePath": "",
     "files": [
       "jquery.keyframes*.js"

@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cowboy/jquery-dotimeout.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cowboy/jquery-dotimeout.git",
     "basePath": "",
     "files": [
       "jquery.ba-dotimeout*.js"

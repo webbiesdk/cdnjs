@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dirkgroenen/jQuery-viewport-checker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dirkgroenen/jQuery-viewport-checker.git",
     "basePath": "dist",
     "files": [
       "**/*"

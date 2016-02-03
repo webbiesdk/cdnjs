@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/McPants/jquery.shapeshift.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/McPants/jquery.shapeshift.git",
     "basePath": "core",
     "files": [
       "jquery.shapeshift*.js"

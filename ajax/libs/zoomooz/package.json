@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jaukia/zoomooz.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jaukia/zoomooz.git",
     "basePath": "",
     "files": [
       "jquery.zoomooz*.js"

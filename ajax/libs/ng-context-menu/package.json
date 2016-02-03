@@ -14,7 +14,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ianwalter/ng-context-menu.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ianwalter/ng-context-menu.git",
     "basePath": "/dist/",
     "files": [
       "*"

@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/objectivehtml/FlipClock.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/objectivehtml/FlipClock.git",
     "basePath": "compiled",
     "files": [
       "flipclock*"

@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/yamlcss/yaml.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/yamlcss/yaml.git",
     "basePath": "yaml",
     "files": [
       "**/*"

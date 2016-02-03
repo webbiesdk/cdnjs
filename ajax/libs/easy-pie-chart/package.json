@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rendro/easy-pie-chart.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rendro/easy-pie-chart.git",
     "basePath": "dist",
     "files": [
       "**/*"

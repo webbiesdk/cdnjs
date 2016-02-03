@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ConnorAtherton/loaders.css",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ConnorAtherton/loaders.css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ConnorAtherton/loaders.css.git",
     "basePath": "",
     "files": [
       "loaders*.css",

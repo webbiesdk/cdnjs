@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/IanLunn/Hover.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/IanLunn/Hover.git",
     "basePath": "",
     "files": [
       "css/hover-min.css",

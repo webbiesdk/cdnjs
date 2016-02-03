@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kopipejst/coin-slider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kopipejst/coin-slider.git",
     "basePath": "",
     "files": [
       "coin-slider.js",

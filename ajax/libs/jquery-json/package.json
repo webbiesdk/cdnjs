@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Krinkle/jquery-json.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Krinkle/jquery-json.git",
     "basePath": "dist",
     "files": [
       "*"

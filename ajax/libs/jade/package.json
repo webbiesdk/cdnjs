@@ -17,7 +17,7 @@
   "namespace": "jade",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jadejs/jade.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jadejs/jade.git",
     "basePath": "",
     "files": [
       "jade.js",

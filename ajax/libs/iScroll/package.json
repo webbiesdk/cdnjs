@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cubiq/iscroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cubiq/iscroll.git",
     "basePath": "build",
     "files": [
       "*.js"

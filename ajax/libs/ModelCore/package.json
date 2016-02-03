@@ -18,7 +18,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/klederson/ModelCore.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/klederson/ModelCore.git",
     "basePath": "src",
     "files": [
       "ModelCore.js"

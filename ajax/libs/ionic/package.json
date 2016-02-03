@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/driftyco/ionic.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/driftyco/ionic.git",
     "basePath": "release",
     "files": [
       "css/**/*",

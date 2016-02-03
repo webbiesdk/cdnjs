@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/almende/vis.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/almende/vis.git",
     "basePath": "dist",
     "files": [
       "**/*"

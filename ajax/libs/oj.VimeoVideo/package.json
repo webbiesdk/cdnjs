@@ -18,7 +18,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ojjs/oj.VimeoVideo.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ojjs/oj.VimeoVideo.git",
     "basePath": "",
     "files": [
       "oj.VimeoVideo*.js"

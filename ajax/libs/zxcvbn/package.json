@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dropbox/zxcvbn.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dropbox/zxcvbn.git",
     "basePath": "dist",
     "files": [
       "**/*"

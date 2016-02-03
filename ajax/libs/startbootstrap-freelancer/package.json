@@ -11,7 +11,7 @@
   "license": "Apache",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/IronSummitMedia/startbootstrap-freelancer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/IronSummitMedia/startbootstrap-freelancer.git",
     "basePath": "",
     "files": [
       "js/freelancer.js",

@@ -20,7 +20,7 @@
   "homepage": "http://nodejs.jsnlog.com/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mperdeck/jsnlog.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mperdeck/jsnlog.js.git",
     "basePath": "",
     "files": [
       "jsnlog.min.js",

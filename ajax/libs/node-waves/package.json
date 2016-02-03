@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fians/Waves.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/fians/Waves.git",
     "basePath": "dist",
     "files": [
       "**/*"

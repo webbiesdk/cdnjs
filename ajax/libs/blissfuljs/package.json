@@ -20,7 +20,7 @@
   "homepage": "http://blissfuljs.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/LeaVerou/bliss.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/LeaVerou/bliss.git",
     "basePath": "",
     "files": [
       "bliss.js",

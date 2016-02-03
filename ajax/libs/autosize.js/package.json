@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jackmoore/autosize.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jackmoore/autosize.git",
     "basePath": "dist",
     "files": [
       "**/*"

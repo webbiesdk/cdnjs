@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kartik-v/bootstrap-fileinput.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kartik-v/bootstrap-fileinput.git",
     "basePath": "",
     "files": [
       "js/fileinput*.js",

@@ -15,7 +15,7 @@
   "author": "brutaldesign",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/brutaldesign/swipebox.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/brutaldesign/swipebox.git",
     "basePath": "src",
     "files": [
       "css/*",

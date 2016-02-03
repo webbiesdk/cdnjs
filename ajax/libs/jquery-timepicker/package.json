@@ -25,7 +25,7 @@
   "homepage": "http://jonthornton.github.com/jquery-timepicker/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jonthornton/jquery-timepicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jonthornton/jquery-timepicker.git",
     "basePath": "",
     "files": [
       "jquery.timepicker.*"

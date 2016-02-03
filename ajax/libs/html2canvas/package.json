@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/niklasvh/html2canvas.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/niklasvh/html2canvas.git",
     "basePath": "dist",
     "files": [
       "html2canvas.js",

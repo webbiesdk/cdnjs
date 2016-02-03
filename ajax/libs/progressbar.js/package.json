@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kimmobrunfeldt/progressbar.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kimmobrunfeldt/progressbar.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

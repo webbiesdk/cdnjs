@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Reactive-Extensions/rxjs-dom.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Reactive-Extensions/rxjs-dom.git",
     "basePath": "dist",
     "files": [
       "**/*"

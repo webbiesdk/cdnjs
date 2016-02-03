@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BrandonLWhite/sevenSeg.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/BrandonLWhite/sevenSeg.js.git",
     "basePath": "",
     "files": [
       "sevenSeg.js"

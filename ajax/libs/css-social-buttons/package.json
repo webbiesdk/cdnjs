@@ -18,7 +18,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/smcllns/css-social-buttons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/smcllns/css-social-buttons.git",
     "basePath": "",
     "files": [
       "css/zocial*"

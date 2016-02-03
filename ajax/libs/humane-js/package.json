@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wavded/humane-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wavded/humane-js.git",
     "basePath": "",
     "files": [
       "humane.min.js",

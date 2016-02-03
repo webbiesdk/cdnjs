@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/NightOwl888/jquery.dirtyforms.helpers.alwaysdirty.dist.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/NightOwl888/jquery.dirtyforms.helpers.alwaysdirty.dist.git",
     "basePath": "",
     "files": [
       "jquery.dirtyforms.helpers.alwaysdirty*.+(js|map)"

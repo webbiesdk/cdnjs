@@ -24,7 +24,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/robflaherty/jquery-scrolldepth.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/robflaherty/jquery-scrolldepth.git",
     "basePath": "",
     "files": [
       "jquery.scrolldepth*.js"

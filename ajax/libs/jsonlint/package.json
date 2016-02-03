@@ -13,7 +13,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zaach/jsonlint.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zaach/jsonlint.git",
     "basePath": "lib/",
     "files": [
       "jsonlint.js"

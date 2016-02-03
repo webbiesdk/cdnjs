@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/playlyfe/aegis.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/playlyfe/aegis.git",
     "basePath": ".",
     "files": [
       "dist/aegis.css",

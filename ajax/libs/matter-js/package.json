@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/liabru/matter-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/liabru/matter-js.git",
     "basePath": "build",
     "files": [
       "matter.js",

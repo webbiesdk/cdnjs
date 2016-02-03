@@ -20,7 +20,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/luis-almeida/unveil.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/luis-almeida/unveil.git",
     "basePath": "",
     "files": [
       "jquery.unveil*.js"

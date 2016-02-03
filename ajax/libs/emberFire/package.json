@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/firebase/emberfire.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/firebase/emberfire.git",
     "basePath": "dist",
     "files": [
       "**/*"

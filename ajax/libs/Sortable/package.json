@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rubaxa/Sortable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rubaxa/Sortable.git",
     "basePath": "",
     "files": [
       "Sortable.min.js",

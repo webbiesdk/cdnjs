@@ -11,7 +11,7 @@
   "homepage": "http://bootboxjs.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/makeusabrew/bootbox.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/makeusabrew/bootbox.git",
     "basePath": "",
     "files": [
       "bootbox.js"

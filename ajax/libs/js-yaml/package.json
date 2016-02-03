@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nodeca/js-yaml.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nodeca/js-yaml.git",
     "basePath": "dist",
     "files": [
       "*"

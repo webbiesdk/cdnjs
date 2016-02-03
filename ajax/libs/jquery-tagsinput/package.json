@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/xoxco/jQuery-Tags-Input.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/xoxco/jQuery-Tags-Input.git",
     "basePath": "dist",
     "files": [
       "**/*"

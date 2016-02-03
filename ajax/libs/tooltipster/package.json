@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/iamceege/tooltipster.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/iamceege/tooltipster.git",
     "basePath": "",
     "files": [
       "js/*.js",

@@ -18,7 +18,7 @@
   "homepage": "https://mbraak.github.io/jqTree/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mbraak/jqtree.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mbraak/jqtree.git",
     "basePath": "",
     "files": [
       "tree.jquery.js",

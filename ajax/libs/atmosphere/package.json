@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Atmosphere/atmosphere-javascript.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Atmosphere/atmosphere-javascript.git",
     "basePath": "modules/javascript/src/main/webapp/javascript/",
     "files": [
       "atmosphere.js"

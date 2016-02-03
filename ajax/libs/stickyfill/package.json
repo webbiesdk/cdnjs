@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wilddeer/stickyfill.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wilddeer/stickyfill.git",
     "basePath": "dist",
     "files": [
       "**/*"

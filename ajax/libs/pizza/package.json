@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zurb/pizza.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zurb/pizza.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kupriyanenko/jbone.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kupriyanenko/jbone.git",
     "basePath": "dist",
     "files": [
       "**/*"

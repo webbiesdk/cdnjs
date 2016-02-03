@@ -23,7 +23,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flowjs/flow.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flowjs/flow.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

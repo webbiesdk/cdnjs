@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/adobe-webplatform/balance-text.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/adobe-webplatform/balance-text.git",
     "basePath": "",
     "files": [
       "jquery.balancetext.js",

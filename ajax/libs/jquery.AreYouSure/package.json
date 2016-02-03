@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/codedance/jquery.AreYouSure.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/codedance/jquery.AreYouSure.git",
     "basePath": "",
     "files": [
       "jquery.are-you-sure*.js"

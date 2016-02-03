@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/timdown/rangy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/timdown/rangy.git",
     "basePath": "lib",
     "files": [
       "rangy*.js"

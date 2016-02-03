@@ -22,7 +22,7 @@
   "filename": "/js/medium-editor.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/yabwe/medium-editor.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/yabwe/medium-editor.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/franverona/loadgo.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/franverona/loadgo.git",
     "basePath": "",
     "files": [
       "loadgo*.js"

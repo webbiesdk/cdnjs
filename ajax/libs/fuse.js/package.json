@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/krisk/Fuse.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/krisk/Fuse.git",
     "basePath": "src/",
     "files": [
       "*"

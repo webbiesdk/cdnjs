@@ -31,7 +31,7 @@
   "filename": "es-class.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/es-class.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/es-class.git",
     "basePath": "build",
     "files": [
       "es-class.amd.js",

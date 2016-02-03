@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wyuenho/backgrid.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wyuenho/backgrid.git",
     "basePath": "lib",
     "files": [
       "backgrid*.js",

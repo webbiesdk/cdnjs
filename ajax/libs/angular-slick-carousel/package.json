@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/devmark/angular-slick-carousel.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/devmark/angular-slick-carousel.git",
     "basePath": "dist",
     "files": [
       "**/*"

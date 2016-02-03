@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bramp/js-sequence-diagrams.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bramp/js-sequence-diagrams.git",
     "basePath": "/build/",
     "files": [
       "sequence-diagram.js",

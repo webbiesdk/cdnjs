@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/twbs/ratchet.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/twbs/ratchet.git",
     "basePath": "dist",
     "files": [
       "**/*"

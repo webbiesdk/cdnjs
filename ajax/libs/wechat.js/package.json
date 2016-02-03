@@ -19,7 +19,7 @@
   "readmeFilename": "readme.md",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sofish/wechat.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sofish/wechat.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

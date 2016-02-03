@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/karacas/imgLiquid.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/karacas/imgLiquid.git",
     "basePath": "",
     "files": [
       "js/**/imgLiquid*.js"

@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/patrickkunka/mixitup.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/patrickkunka/mixitup.git",
     "basePath": "src",
     "files": [
       "jquery.mixitup*.js"

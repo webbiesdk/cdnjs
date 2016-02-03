@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tejacques/crosstab.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tejacques/crosstab.git",
     "basePath": "src",
     "files": [
       "crosstab*.js"

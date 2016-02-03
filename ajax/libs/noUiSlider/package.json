@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/leongersen/noUiSlider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/leongersen/noUiSlider.git",
     "basePath": "distribute",
     "files": [
       "**/*"

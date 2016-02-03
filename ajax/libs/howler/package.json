@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/goldfire/howler.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/goldfire/howler.js.git",
     "basePath": "",
     "files": [
       "howler.js",

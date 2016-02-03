@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/leonidas/transparency.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/leonidas/transparency.git",
     "basePath": "dist",
     "files": [
       "**/*"

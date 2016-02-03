@@ -11,7 +11,7 @@
   "author": "Tim Branyen",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tbranyen/use-amd.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tbranyen/use-amd.git",
     "basePath": "",
     "files": [
       "use.js"

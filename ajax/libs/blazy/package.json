@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dinbror/blazy",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dinbror/blazy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dinbror/blazy.git",
     "basePath": "",
     "files": [
       "blazy*.js"

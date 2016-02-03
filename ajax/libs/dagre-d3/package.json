@@ -23,7 +23,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cpettitt/dagre-d3.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cpettitt/dagre-d3.git",
     "basePath": "dist",
     "files": [
       "**/*"

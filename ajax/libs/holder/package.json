@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/imsky/holder.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/imsky/holder.git",
     "basePath": "",
     "files": [
       "holder.js",

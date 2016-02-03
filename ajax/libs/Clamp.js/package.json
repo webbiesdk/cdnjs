@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/josephschmitt/Clamp.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/josephschmitt/Clamp.js.git",
     "basePath": "",
     "files": [
       "clamp.min.js",

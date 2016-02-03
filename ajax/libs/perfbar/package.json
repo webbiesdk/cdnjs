@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WPOTools/perfBar.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WPOTools/perfBar.git",
     "basePath": "lib",
     "files": [
       "perfBar*.css",

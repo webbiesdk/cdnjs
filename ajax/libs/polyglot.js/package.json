@@ -20,7 +20,7 @@
   "license": "BSD",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/airbnb/polyglot.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/airbnb/polyglot.js.git",
     "basePath": "build",
     "files": [
       "polyglot*"

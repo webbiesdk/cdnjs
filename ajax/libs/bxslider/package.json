@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/stevenwanderski/bxslider-4.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/stevenwanderski/bxslider-4.git",
     "basePath": "dist",
     "files": [
       "**/*.+(js|css|map|ico|png|jpg|gif|swf|eot|svg|ttf|woff)"

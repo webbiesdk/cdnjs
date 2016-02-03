@@ -9,7 +9,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/agrublev/angularLocalStorage.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/agrublev/angularLocalStorage.git",
     "basePath": "dist",
     "files": [
       "*"

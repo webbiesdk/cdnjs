@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jedfoster/Readmore.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jedfoster/Readmore.js.git",
     "basePath": "",
     "files": [
       "readmore.min.js",

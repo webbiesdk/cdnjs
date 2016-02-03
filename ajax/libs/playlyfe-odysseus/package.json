@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/playlyfe/odysseus.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/playlyfe/odysseus.git",
     "basePath": "/lib/",
     "files": [
       "odysseus.js",

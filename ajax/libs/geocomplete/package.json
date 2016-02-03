@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ubilabs/geocomplete.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ubilabs/geocomplete.git",
     "basePath": "",
     "files": [
       "jquery.geocomplete*.js"

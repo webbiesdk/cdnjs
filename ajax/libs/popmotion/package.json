@@ -32,7 +32,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Popmotion/popmotion.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Popmotion/popmotion.git",
     "basePath": "",
     "files": [
       "popmotion*.js"

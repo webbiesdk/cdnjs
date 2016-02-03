@@ -29,7 +29,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Netflix/falcor.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Netflix/falcor.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nervgh/angular-file-upload.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nervgh/angular-file-upload.git",
     "basePath": "dist",
     "files": [
       "**/*"

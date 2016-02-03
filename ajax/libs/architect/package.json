@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/EtienneLem/architect.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/EtienneLem/architect.git",
     "basePath": "static/",
     "files": [
       "architect.min.js",

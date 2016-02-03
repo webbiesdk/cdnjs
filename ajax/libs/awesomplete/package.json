@@ -16,7 +16,7 @@
   "homepage": "https://leaverou.github.io/awesomplete/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/LeaVerou/awesomplete.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/LeaVerou/awesomplete.git",
     "basePath": "",
     "files": [
       "awesomplete*.js",

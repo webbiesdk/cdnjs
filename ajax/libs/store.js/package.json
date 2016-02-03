@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marcuswestin/store.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marcuswestin/store.js.git",
     "basePath": "",
     "files": [
       "store.js",

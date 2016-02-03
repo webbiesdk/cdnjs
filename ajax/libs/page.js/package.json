@@ -10,7 +10,7 @@
   "homepage": "https://github.com/visionmedia/page.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/visionmedia/page.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/visionmedia/page.js.git",
     "basePath": "",
     "files": [
       "page.js",

@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Khan/KaTeX.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Khan/KaTeX.git",
     "basePath": "dist",
     "files": [
       "katex.min.js",

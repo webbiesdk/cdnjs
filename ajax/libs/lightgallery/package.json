@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sachinchoolur/lightGallery.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sachinchoolur/lightGallery.git",
     "basePath": "dist",
     "files": [
       "**/*"

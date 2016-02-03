@@ -23,7 +23,7 @@
   "homepage": "http://alves.im/minigrid",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/henriquea/minigrid.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/henriquea/minigrid.git",
     "basePath": "",
     "files": [
       "minigrid.min.js"

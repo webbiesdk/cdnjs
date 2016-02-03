@@ -23,7 +23,7 @@
   "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/FezVrasta/bootstrap-material-design.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/FezVrasta/bootstrap-material-design.git",
     "basePath": "dist",
     "files": [
       "**/*"

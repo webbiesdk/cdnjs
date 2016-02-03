@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/millermedeiros/Hasher.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/millermedeiros/Hasher.git",
     "basePath": "dist/js",
     "files": [
       "hasher.js",

@@ -6,7 +6,7 @@
   "homepage": "https://github.com/gdub22/ember-computed-reverse",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gdub22/ember-computed-reverse.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/gdub22/ember-computed-reverse.git",
     "basePath": "",
     "files": [
       "ember-computed-reverse.js"

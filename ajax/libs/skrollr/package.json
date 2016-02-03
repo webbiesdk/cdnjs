@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Prinzhorn/skrollr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Prinzhorn/skrollr.git",
     "basePath": "dist/",
     "files": [
       "**/*"

@@ -17,7 +17,7 @@
   "homepage": "https://github.com/aterrien/jQuery-Knob#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aterrien/jQuery-Knob.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/aterrien/jQuery-Knob.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/NightOwl888/jquery.dirtyforms.dialogs.blockui.dist.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/NightOwl888/jquery.dirtyforms.dialogs.blockui.dist.git",
     "basePath": "",
     "files": [
       "jquery.dirtyforms.dialogs.blockui*.+(js|map)"

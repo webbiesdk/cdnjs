@@ -33,7 +33,7 @@
   "homepage": "http://www.idangero.us/framework7/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nolimits4web/Framework7.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nolimits4web/Framework7.git",
     "basePath": "dist",
     "files": [
       "**/framework7*",

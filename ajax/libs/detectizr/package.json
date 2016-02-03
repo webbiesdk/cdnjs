@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/barisaydinoglu/Detectizr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/barisaydinoglu/Detectizr.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -17,7 +17,7 @@
   "homepage": "https://github.com/isteven/angular-multi-select",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/isteven/angular-multi-select.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/isteven/angular-multi-select.git",
     "basePath": "",
     "files": [
       "*multi-select*"

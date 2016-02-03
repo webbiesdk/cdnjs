@@ -19,7 +19,7 @@
   "homepage": "https://github.com/pornel/slip#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pornel/slip.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/pornel/slip.git",
     "basePath": "",
     "files": [
       "slip*.js"

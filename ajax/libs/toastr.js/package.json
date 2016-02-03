@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/CodeSeven/toastr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/CodeSeven/toastr.git",
     "basePath": "build",
     "files": [
       "*"

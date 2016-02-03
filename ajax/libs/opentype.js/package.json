@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nodebox/opentype.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nodebox/opentype.js.git",
     "basePath": "/dist/",
     "files": [
       "opentype.min.js",

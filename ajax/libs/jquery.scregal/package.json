@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kunass2/scregal.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kunass2/scregal.js.git",
     "basePath": "js",
     "files": [
       "*"

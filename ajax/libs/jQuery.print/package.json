@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/DoersGuild/jQuery.print.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/DoersGuild/jQuery.print.git",
     "basePath": "",
     "files": [
       "jQuery.print*"

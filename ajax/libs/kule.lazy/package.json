@@ -30,7 +30,7 @@
   "homepage": "http://www.kule.tw",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/keicheng/kule.lazy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/keicheng/kule.lazy.git",
     "basePath": "dist",
     "files": [
       "**/*"

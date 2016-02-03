@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-google-chart/angular-google-chart.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angular-google-chart/angular-google-chart.git",
     "basePath": "",
     "files": [
       "ng-google-chart.js"

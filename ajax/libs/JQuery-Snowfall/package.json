@@ -17,7 +17,7 @@
   "homepage": "https://github.com/loktar00/JQuery-Snowfall",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/loktar00/JQuery-Snowfall.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/loktar00/JQuery-Snowfall.git",
     "basePath": "dist",
     "files": [
       "*"

@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Reactive-Extensions/rx.angular.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Reactive-Extensions/rx.angular.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

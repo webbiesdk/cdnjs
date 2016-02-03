@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chriszarate/sheetrock.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/chriszarate/sheetrock.git",
     "basePath": "",
     "files": [
       "dist/*",

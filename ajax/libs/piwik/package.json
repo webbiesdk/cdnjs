@@ -16,7 +16,7 @@
   "license": "deprecated_GPL-3.0+",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/piwik/piwik.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/piwik/piwik.git",
     "basePath": "",
     "files": [
       "piwik.js"

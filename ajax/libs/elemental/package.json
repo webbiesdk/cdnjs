@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/elementalui/elemental-dist.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/elementalui/elemental-dist.git",
     "basePath": "",
     "files": [
       "**/*.+(js|css)"

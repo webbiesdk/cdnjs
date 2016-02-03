@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nemtsov/json-mask.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nemtsov/json-mask.git",
     "basePath": "build",
     "files": [
       "jsonMask*.js"

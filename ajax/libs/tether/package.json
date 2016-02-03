@@ -13,7 +13,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/tether.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/tether.git",
     "basePath": "dist",
     "files": [
       "**/tether*"

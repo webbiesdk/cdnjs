@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gkz/LiveScript.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/gkz/LiveScript.git",
     "basePath": "browser",
     "files": [
       "*.js"

@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/miromannino/Justified-Gallery.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/miromannino/Justified-Gallery.git",
     "basePath": "dist/",
     "files": [
       "**/*.+(js|css)"

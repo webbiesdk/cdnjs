@@ -11,7 +11,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/vex.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/vex.git",
     "basePath": "",
     "files": [
       "css/**/vex*",

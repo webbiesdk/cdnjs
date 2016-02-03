@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/GianlucaGuarini/jquery.html5loader.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/GianlucaGuarini/jquery.html5loader.git",
     "basePath": "src",
     "files": [
       "*.js",

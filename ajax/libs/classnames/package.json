@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/JedWatson/classnames.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/JedWatson/classnames.git",
     "basePath": "",
     "files": [
       "index*.js",

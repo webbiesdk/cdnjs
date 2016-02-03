@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/highlightjs/cdn-release.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/highlightjs/cdn-release.git",
     "basePath": "build",
     "files": [
       "highlight.min.js",

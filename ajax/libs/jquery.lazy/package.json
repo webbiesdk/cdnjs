@@ -41,7 +41,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/eisbehr-/jquery.lazy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/eisbehr-/jquery.lazy.git",
     "basePath": "",
     "files": [
       "jquery.lazy.min.js",

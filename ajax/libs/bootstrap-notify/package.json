@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/goodybag/bootstrap-notify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/goodybag/bootstrap-notify.git",
     "files": [
       "css/styles/alert-*.css",
       "css/bootstrap-notify*.css",

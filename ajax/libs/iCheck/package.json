@@ -46,7 +46,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fronteed/iCheck.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/fronteed/iCheck.git",
     "basePath": "",
     "files": [
       "icheck*.js",

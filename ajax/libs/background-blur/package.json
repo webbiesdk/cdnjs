@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/msurguy/background-blur.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/msurguy/background-blur.git",
     "basePath": "dist",
     "files": [
       "**/*"

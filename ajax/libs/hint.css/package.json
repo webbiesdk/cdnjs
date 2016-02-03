@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chinchang/hint.css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/chinchang/hint.css.git",
     "basePath": "",
     "files": [
       "hint*.css"

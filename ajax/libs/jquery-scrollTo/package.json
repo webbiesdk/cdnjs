@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flesler/jquery.scrollTo.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flesler/jquery.scrollTo.git",
     "basePath": "",
     "files": [
       "jquery.scrollTo.js",

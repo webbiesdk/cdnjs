@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-translate/bower-angular-translate-loader-static-files.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angular-translate/bower-angular-translate-loader-static-files.git",
     "basePath": "",
     "files": [
       "*.js"

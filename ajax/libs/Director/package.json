@@ -2,7 +2,7 @@
   "name": "Director",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flatiron/director.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flatiron/director.git",
     "basePath": "/build/",
     "files": [
       "director.min.js",

@@ -20,7 +20,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/olton/Metro-UI-CSS.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/olton/Metro-UI-CSS.git",
     "basePath": "build",
     "files": [
       "**/metro*"

@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aguirrel/ng-currency.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/aguirrel/ng-currency.git",
     "basePath": "dist",
     "files": [
       "**/*"

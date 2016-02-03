@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sahat/satellizer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sahat/satellizer.git",
     "basePath": "",
     "files": [
       "satellizer*.js"

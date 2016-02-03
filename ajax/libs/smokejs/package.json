@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alfredobarron/smoke.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/alfredobarron/smoke.git",
     "basePath": "dist",
     "files": [
       "**/*"

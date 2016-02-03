@@ -16,7 +16,7 @@
   "homepage": "https://github.com/Leaflet/Leaflet.Editable/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Leaflet/Leaflet.Editable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Leaflet/Leaflet.Editable.git",
     "basePath": "src",
     "files": [
       "Leaflet.Editable*.js"

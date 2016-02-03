@@ -10,7 +10,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lvoogdt/Leaflet.awesome-markers.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lvoogdt/Leaflet.awesome-markers.git",
     "basePath": "dist/",
     "files": [
       "**/*"

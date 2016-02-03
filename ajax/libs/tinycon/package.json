@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tommoor/tinycon.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tommoor/tinycon.git",
     "basePath": "",
     "files": [
       "tinycon.js",

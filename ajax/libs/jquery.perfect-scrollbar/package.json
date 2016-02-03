@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/noraesae/perfect-scrollbar-bower.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/noraesae/perfect-scrollbar-bower.git",
     "basePath": "",
     "files": [
       "js/min/*.js",

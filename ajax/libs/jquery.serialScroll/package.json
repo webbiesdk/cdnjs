@@ -29,7 +29,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flesler/jquery.serialScroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flesler/jquery.serialScroll.git",
     "basePath": "",
     "files": [
       "*.js"

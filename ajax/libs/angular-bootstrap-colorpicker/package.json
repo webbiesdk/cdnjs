@@ -17,7 +17,7 @@
   "homepage": "https://github.com/buberdds/angular-bootstrap-colorpicker",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/buberdds/angular-bootstrap-colorpicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/buberdds/angular-bootstrap-colorpicker.git",
     "basePath": "",
     "files": [
       "js/bootstrap-colorpicker*.js",

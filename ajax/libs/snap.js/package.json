@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jakiestfu/Snap.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jakiestfu/Snap.js.git",
     "basePath": "",
     "files": [
       "snap.js",

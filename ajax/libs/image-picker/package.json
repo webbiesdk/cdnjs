@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rvera/image-picker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rvera/image-picker.git",
     "basePath": "image-picker",
     "files": [
       "image-picker.css",

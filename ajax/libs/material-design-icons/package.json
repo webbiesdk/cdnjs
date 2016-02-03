@@ -18,7 +18,7 @@
   "homepage": "https://github.com/google/material-design-icons",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/google/material-design-icons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/google/material-design-icons.git",
     "basePath": "",
     "files": [
       "**/*.css",

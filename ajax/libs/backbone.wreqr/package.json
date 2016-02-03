@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marionettejs/backbone.wreqr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marionettejs/backbone.wreqr.git",
     "basePath": "lib",
     "files": [
       "*"

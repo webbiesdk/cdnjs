@@ -22,7 +22,7 @@
   "filename": "bootstrap-notify.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mouse0270/bootstrap-notify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mouse0270/bootstrap-notify.git",
     "basePath": "",
     "files": [
       "bootstrap-notify*.js"

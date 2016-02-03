@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/krampstudio/aja.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/krampstudio/aja.js.git",
     "basePath": "src",
     "files": [
       "aja*.+(js|map)"

@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bigfishtv/turret.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bigfishtv/turret.git",
     "basePath": "dist",
     "files": [
       "**/*"

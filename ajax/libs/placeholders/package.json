@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jamesallardice/Placeholders.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jamesallardice/Placeholders.js.git",
     "basePath": "/dist",
     "files": [
       "placeholders*.js"

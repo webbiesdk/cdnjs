@@ -27,7 +27,7 @@
   "filename": "svg4everybody.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jonathantneal/svg4everybody.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jonathantneal/svg4everybody.git",
     "basePath": "dist",
     "files": [
       "**/*"

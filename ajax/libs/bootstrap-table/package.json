@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wenzhixin/bootstrap-table.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wenzhixin/bootstrap-table.git",
     "basePath": "dist/",
     "files": [
       "**/*"

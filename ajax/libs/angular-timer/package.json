@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/siddii/angular-timer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/siddii/angular-timer.git",
     "basePath": "dist",
     "files": [
       "**/*.+(css|js)"

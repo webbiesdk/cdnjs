@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/t4t5/sweetalert.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/t4t5/sweetalert.git",
     "basePath": "dist/",
     "files": [
       "**/*"

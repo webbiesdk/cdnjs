@@ -26,7 +26,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/inuyaksa/jquery.nicescroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/inuyaksa/jquery.nicescroll.git",
     "basePath": "dist",
     "files": [
       "**/*"

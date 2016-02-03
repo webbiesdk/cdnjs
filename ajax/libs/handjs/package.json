@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/deltakosh/handjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/deltakosh/handjs.git",
     "basePath": "/bin/",
     "files": [
       "hand.js",

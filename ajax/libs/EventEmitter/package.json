@@ -22,7 +22,7 @@
   "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Olical/EventEmitter.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Olical/EventEmitter.git",
     "basePath": "",
     "files": [
       "EventEmitter.*"

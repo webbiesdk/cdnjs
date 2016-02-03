@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/danielemoraschi/maplace.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/danielemoraschi/maplace.js.git",
     "basePath": "src",
     "files": [
       "maplace*.js"

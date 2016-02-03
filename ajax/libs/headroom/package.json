@@ -18,7 +18,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WickyNilliams/headroom.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WickyNilliams/headroom.js.git",
     "basePath": "dist",
     "files": [
       "*"

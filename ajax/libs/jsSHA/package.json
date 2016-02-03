@@ -28,7 +28,7 @@
   "dependencies": {},
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Caligatio/jsSHA.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Caligatio/jsSHA.git",
     "basePath": "src",
     "files": [
       "*.js"

@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/TerryMooreII/angular-azure-mobile-service.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/TerryMooreII/angular-azure-mobile-service.git",
     "basePath": "/dist/",
     "files": [
       "angular-azure-mobile-service.js",

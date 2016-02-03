@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marcaube/bootstrap-magnify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marcaube/bootstrap-magnify.git",
     "basePath": "",
     "files": [
       "js/bootstrap-magnify*.js",

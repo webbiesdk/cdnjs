@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flot/flot.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flot/flot.git",
     "basePath": "",
     "files": [
       "jquery.flot.*",

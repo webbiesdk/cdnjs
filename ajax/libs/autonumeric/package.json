@@ -32,7 +32,7 @@
   "author": "Robert Knothe",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BobKnothe/autoNumeric.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/BobKnothe/autoNumeric.git",
     "basePath": "",
     "files": [
       "autoNumeric.js"

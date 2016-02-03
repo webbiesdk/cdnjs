@@ -28,7 +28,7 @@
   "homepage": "https://github.com/cure53/DOMPurify",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cure53/DOMPurify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cure53/DOMPurify.git",
     "basePath": "dist",
     "files": [
       "**/*"

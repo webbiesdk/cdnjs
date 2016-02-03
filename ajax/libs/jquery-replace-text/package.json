@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cowboy/jquery-replacetext.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cowboy/jquery-replacetext.git",
     "basePath": "",
     "files": [
       "jquery.ba-replacetext*.js"

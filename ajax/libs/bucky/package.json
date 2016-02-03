@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/BuckyClient.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/BuckyClient.git",
     "basePath": "",
     "files": [
       "bucky.min.js",

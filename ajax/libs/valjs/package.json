@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dlid/jquery-valjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dlid/jquery-valjs.git",
     "basePath": "",
     "files": [
       "jquery.valjs.min.js",

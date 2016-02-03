@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/swisnl/jQuery-contextMenu.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/swisnl/jQuery-contextMenu.git",
     "basePath": "dist",
     "files": [
       "**/*"

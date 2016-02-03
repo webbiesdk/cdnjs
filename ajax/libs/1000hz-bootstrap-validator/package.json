@@ -19,7 +19,7 @@
   "author": "Cina Saffary",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/1000hz/bootstrap-validator.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/1000hz/bootstrap-validator.git",
     "basePath": "dist",
     "files": [
       "**/*"

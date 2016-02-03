@@ -8,7 +8,7 @@
   "homepage": "https://github.com/toddmotto/fluidvids",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/toddmotto/fluidvids.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/toddmotto/fluidvids.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -41,7 +41,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/agershun/alasql.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/agershun/alasql.git",
     "basePath": "/dist/",
     "files": [
       "alasql-worker.min.js",

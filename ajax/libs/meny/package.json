@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/Meny.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hakimel/Meny.git",
     "basePath": "js",
     "files": [
       "meny.js"

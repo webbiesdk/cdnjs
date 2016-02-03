@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/facebook/flux.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/facebook/flux.git",
     "basePath": "dist",
     "files": [
       "**/*"

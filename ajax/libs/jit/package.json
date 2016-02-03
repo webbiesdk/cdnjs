@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/philogb/jit.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/philogb/jit.git",
     "basePath": "Jit/",
     "files": [
       "Extras/excanvas.js",

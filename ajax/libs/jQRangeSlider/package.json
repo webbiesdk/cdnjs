@@ -19,7 +19,7 @@
   "license": "GPL",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ghusse/jQRangeSlider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ghusse/jQRangeSlider.git",
     "basePath": "",
     "files": [
       "jQ*.js",

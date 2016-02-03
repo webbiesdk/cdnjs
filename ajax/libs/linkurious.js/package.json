@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Linkurious/linkurious.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Linkurious/linkurious.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -13,7 +13,7 @@
   "filename": "offline.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/offline.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/offline.git",
     "basePath": "",
     "files": [
       "themes/**/*",

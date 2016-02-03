@@ -20,7 +20,7 @@
   "homepage": "https://github.com/simonbengtsson/jsPDF-AutoTable#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/simonbengtsson/jsPDF-AutoTable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/simonbengtsson/jsPDF-AutoTable.git",
     "basePath": "dist",
     "files": [
       "**/*"

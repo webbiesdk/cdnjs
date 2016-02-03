@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/koggdal/ocanvas.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/koggdal/ocanvas.git",
     "basePath": "build/dist/latest",
     "files": [
       "ocanvas.min.js",

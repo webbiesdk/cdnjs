@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gEndelf/jquery.businessHours.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/gEndelf/jquery.businessHours.git",
     "basePath": "",
     "files": [
       "jquery.businessHours.*"

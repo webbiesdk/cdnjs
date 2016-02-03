@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/abdmob/x2js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/abdmob/x2js.git",
     "basePath": "",
     "files": [
       "xml2json*.js"

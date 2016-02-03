@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jquery/jquery-mousewheel.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jquery/jquery-mousewheel.git",
     "basePath": "",
     "files": [
       "jquery.mousewheel.js",

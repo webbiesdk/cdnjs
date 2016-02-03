@@ -12,7 +12,7 @@
   "author": "Jorik Tangelder (Eight Media)",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hammerjs/hammer.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hammerjs/hammer.js.git",
     "basePath": "",
     "files": [
       "hammer*"

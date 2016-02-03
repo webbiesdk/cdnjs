@@ -11,7 +11,7 @@
   "license": "Apache",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/IronSummitMedia/startbootstrap-grayscale.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/IronSummitMedia/startbootstrap-grayscale.git",
     "basePath": "",
     "files": [
       "js/grayscale.js",

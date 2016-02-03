@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/carhartl/jquery-cookie.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/carhartl/jquery-cookie.git",
     "basePath": "",
     "files": [
       "jquery.cookie*.js"

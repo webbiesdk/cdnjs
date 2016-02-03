@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/uikit/bower-uikit.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/uikit/bower-uikit.git",
     "basePath": "",
     "files": [
       "css/**/*",

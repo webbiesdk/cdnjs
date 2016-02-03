@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kijin/postcodify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kijin/postcodify.git",
     "basePath": "api/",
     "files": [
       "search.min.js"

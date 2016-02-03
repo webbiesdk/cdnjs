@@ -21,7 +21,7 @@
   "keywords": [],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/trentrichardson/jQuery-Impromptu.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/trentrichardson/jQuery-Impromptu.git",
     "basePath": "/dist/",
     "files": [
       "**/*.js",

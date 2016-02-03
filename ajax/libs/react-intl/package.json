@@ -13,7 +13,7 @@
   "license": "BSD",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/yahoo/react-intl.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/yahoo/react-intl.git",
     "basePath": "dist/",
     "files": [
       "**/*"

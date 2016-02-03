@@ -14,7 +14,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jackmoore/zoom.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jackmoore/zoom.git",
     "basePath": "",
     "files": [
       "jquery.zoom*.js"

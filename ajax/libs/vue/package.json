@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vuejs/vue.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vuejs/vue.git",
     "basePath": "dist",
     "files": [
       "*.js"

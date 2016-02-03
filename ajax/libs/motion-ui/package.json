@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zurb/motion-ui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zurb/motion-ui.git",
     "basePath": "dist",
     "files": [
       "**/*"

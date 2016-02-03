@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/QuickBlox/quickblox-javascript-sdk.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/QuickBlox/quickblox-javascript-sdk.git",
     "basePath": "",
     "files": [
       "quickblox.min.js",

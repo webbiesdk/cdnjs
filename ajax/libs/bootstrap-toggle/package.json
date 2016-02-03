@@ -19,7 +19,7 @@
   "author": "Min Hur <min.hur@gmail.com>",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/minhur/bootstrap-toggle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/minhur/bootstrap-toggle.git",
     "basePath": "",
     "files": [
       "js/bootstrap-toggle*.+(js|map)",

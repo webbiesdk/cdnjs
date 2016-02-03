@@ -12,7 +12,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lrsjng/jquery-qrcode.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lrsjng/jquery-qrcode.git",
     "basePath": "dist",
     "files": [
       "*"

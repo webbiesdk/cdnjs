@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/davidmerfield/randomColor.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/davidmerfield/randomColor.git",
     "basePath": "",
     "files": [
       "randomColor.js"

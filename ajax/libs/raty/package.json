@@ -29,7 +29,7 @@
   "version": "2.7.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wbotelhos/raty.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wbotelhos/raty.git",
     "basePath": "lib",
     "files": [
       "**/?(jquery.)raty*",

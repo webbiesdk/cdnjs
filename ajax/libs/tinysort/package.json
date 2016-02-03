@@ -19,7 +19,7 @@
   "license": "MIT/GPL",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Sjeiti/TinySort.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Sjeiti/TinySort.git",
     "basePath": "dist",
     "files": [
       "tinysort.js",

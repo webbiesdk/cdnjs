@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cowboy/jquery-bbq.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cowboy/jquery-bbq.git",
     "basePath": "",
     "files": [
       "jquery.ba-bbq*.js"

@@ -15,7 +15,7 @@
   "homepage": "https://dimplejs.org/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/PMSI-AlignAlytics/dimple.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/PMSI-AlignAlytics/dimple.git",
     "basePath": "dist",
     "files": [
       "dimple.latest*.js"

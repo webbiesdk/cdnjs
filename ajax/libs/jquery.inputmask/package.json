@@ -26,7 +26,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/RobinHerbots/jquery.inputmask.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/RobinHerbots/jquery.inputmask.git",
     "basePath": "dist",
     "files": [
       "**/*"

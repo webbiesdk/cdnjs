@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lauripiispanen/angular-bacon.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lauripiispanen/angular-bacon.git",
     "basePath": "dist",
     "files": [
       "**/*"

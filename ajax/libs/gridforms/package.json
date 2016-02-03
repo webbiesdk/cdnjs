@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kumailht/gridforms.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kumailht/gridforms.git",
     "basePath": "gridforms",
     "files": [
       "gridforms.js",

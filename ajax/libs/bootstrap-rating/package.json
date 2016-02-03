@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dreyescat/bootstrap-rating.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dreyescat/bootstrap-rating.git",
     "basePath": "",
     "files": [
       "bootstrap-rating*.+(js|css)"

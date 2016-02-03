@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/joeyvandijk/rimg.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/joeyvandijk/rimg.git",
     "basePath": "",
     "files": [
       "rimg.js",

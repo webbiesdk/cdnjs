@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cyclejs/cycle-dom.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cyclejs/cycle-dom.git",
     "basePath": "dist",
     "files": [
       "**/*"

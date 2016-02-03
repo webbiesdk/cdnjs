@@ -11,7 +11,7 @@
   "filename": "agility.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/arturadib/agility.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/arturadib/agility.git",
     "basePath": "",
     "files": [
       "agility*"

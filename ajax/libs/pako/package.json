@@ -17,7 +17,7 @@
   "filename": "pako.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nodeca/pako.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nodeca/pako.git",
     "basePath": "dist",
     "files": [
       "**/*"

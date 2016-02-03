@@ -12,7 +12,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lrsjng/jquery-scrollpanel.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lrsjng/jquery-scrollpanel.git",
     "basePath": "dist",
     "files": [
       "*"

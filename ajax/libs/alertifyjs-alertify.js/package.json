@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alertifyjs/alertify.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/alertifyjs/alertify.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

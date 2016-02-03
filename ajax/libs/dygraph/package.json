@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/danvk/dygraphs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/danvk/dygraphs.git",
     "basePath": "",
     "files": [
       "dygraph-combined.js",

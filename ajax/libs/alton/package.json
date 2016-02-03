@@ -17,7 +17,7 @@
   "homepage": "https://github.com/paper-leaf/alton#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/paper-leaf/alton.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/paper-leaf/alton.git",
     "basePath": "assets",
     "files": [
       "*alton*"

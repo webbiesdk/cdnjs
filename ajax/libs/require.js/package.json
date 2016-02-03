@@ -13,7 +13,7 @@
   "namespace": "require",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jrburke/requirejs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jrburke/requirejs.git",
     "basePath": "",
     "files": [
       "require.js"

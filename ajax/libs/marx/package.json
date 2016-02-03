@@ -32,7 +32,7 @@
   "homepage": "https://github.com/mblode/marx",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mblode/marx.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mblode/marx.git",
     "basePath": "css",
     "files": [
       "marx.min.css",

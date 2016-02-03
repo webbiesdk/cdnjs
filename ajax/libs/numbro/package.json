@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/foretagsplatsen/numbro.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/foretagsplatsen/numbro.git",
     "basePath": "dist",
     "files": [
       "**/*"

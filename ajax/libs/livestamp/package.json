@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mattbradley/livestampjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mattbradley/livestampjs.git",
     "basePath": "",
     "files": [
       "livestamp.js",

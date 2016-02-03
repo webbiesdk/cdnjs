@@ -22,7 +22,7 @@
   "homepage": "http://ngcordova.com/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/driftyco/ng-cordova.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/driftyco/ng-cordova.git",
     "basePath": "dist",
     "files": [
       "**/*"

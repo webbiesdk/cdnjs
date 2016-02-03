@@ -16,7 +16,7 @@
   "homepage": "http://mincss.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/owenversteeg/min.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/owenversteeg/min.git",
     "basePath": "",
     "files": [
       "entireframework.min.css"

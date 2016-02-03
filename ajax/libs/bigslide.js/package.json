@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ascott1/bigSlide.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ascott1/bigSlide.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

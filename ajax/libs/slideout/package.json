@@ -28,7 +28,7 @@
   "filename": "slideout.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Mango/slideout.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Mango/slideout.git",
     "basePath": "dist",
     "files": [
       "*.js"

@@ -18,7 +18,7 @@
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jgm/commonmark.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jgm/commonmark.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

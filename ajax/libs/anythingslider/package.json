@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/CSS-Tricks/AnythingSlider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/CSS-Tricks/AnythingSlider.git",
     "basePath": "",
     "files": [
       "js/jquery.anythingslider*.js",

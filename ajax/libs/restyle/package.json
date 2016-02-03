@@ -21,7 +21,7 @@
   "filename": "restyle.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/restyle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/restyle.git",
     "basePath": "build",
     "files": [
       "restyle.amd.js",

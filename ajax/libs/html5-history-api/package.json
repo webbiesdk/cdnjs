@@ -6,7 +6,7 @@
   "homepage": "https://github.com/devote/HTML5-History-API",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/devote/HTML5-History-API.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/devote/HTML5-History-API.git",
     "basePath": "",
     "files": [
       "history*.js"

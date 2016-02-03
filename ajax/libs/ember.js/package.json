@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/components/ember.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/components/ember.git",
     "basePath": "",
     "files": [
       "ember*.js"

@@ -21,7 +21,7 @@
   "homepage": "https://github.com/wenzhixin/bootstrap-show-password",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wenzhixin/bootstrap-show-password.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wenzhixin/bootstrap-show-password.git",
     "basePath": "",
     "files": [
       "bootstrap-show-password*.js"

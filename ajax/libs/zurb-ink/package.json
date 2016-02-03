@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zurb/ink.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zurb/ink.git",
     "basePath": "css/",
     "files": [
       "ink.css"

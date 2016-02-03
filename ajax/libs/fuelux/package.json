@@ -31,7 +31,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ExactTarget/fuelux.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ExactTarget/fuelux.git",
     "basePath": "dist",
     "files": [
       "css/*",

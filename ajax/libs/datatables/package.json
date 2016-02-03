@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/DataTables/DataTables.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/DataTables/DataTables.git",
     "basePath": "media",
     "files": [
       "css/*",

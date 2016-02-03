@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/matthieua/WOW.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/matthieua/WOW.git",
     "basePath": "dist/",
     "files": [
       "*"

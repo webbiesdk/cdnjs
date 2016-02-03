@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/github/fetch.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/github/fetch.git",
     "basePath": "",
     "files": [
       "fetch*.js"

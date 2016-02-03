@@ -17,7 +17,7 @@
   "homepage": "https://github.com/firstopinion/formatter.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/firstopinion/formatter.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/firstopinion/formatter.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/markdalgleish/stellar.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/markdalgleish/stellar.js.git",
     "basePath": "",
     "files": [
       "jquery.stellar.js",

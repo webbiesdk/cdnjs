@@ -13,7 +13,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/m-e-conroy/angular-dialog-service.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/m-e-conroy/angular-dialog-service.git",
     "basePath": "dist/",
     "files": [
       "**/*"

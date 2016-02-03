@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/CWSpear/bootstrap-hover-dropdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/CWSpear/bootstrap-hover-dropdown.git",
     "basePath": "",
     "files": [
       "bootstrap-hover-dropdown.min.js",

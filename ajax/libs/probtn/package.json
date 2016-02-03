@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/probtn/probtn-web.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/probtn/probtn-web.git",
     "basePath": "/cdn/",
     "files": [
       "**/*"

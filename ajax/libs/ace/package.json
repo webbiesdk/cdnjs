@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ajaxorg/ace-builds.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ajaxorg/ace-builds.git",
     "basePath": "src-min",
     "files": [
       "**/*"

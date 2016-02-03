@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/daneden/animate.css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/daneden/animate.css.git",
     "basePath": "",
     "files": [
       "*.css"

@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/apneadiving/Google-Maps-for-Rails.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/apneadiving/Google-Maps-for-Rails.git",
     "basePath": "js_compilation",
     "files": [
       "**/*"

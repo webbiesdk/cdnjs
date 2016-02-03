@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mjolnic/bootstrap-colorpicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mjolnic/bootstrap-colorpicker.git",
     "basePath": "dist",
     "files": [
       "**/*"

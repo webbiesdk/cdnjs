@@ -23,7 +23,7 @@
   "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flowjs/ng-flow.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/flowjs/ng-flow.git",
     "basePath": "/dist/",
     "files": [
       "*.js"

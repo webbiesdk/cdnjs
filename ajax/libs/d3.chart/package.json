@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/misoproject/d3.chart.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/misoproject/d3.chart.git",
     "basePath": "",
     "files": [
       "d3.chart.js",

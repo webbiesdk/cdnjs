@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bfintal/Counter-Up.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bfintal/Counter-Up.git",
     "basePath": "",
     "files": [
       "jquery.counterup*.js"

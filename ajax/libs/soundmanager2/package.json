@@ -24,7 +24,7 @@
   "license": "BSD",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/scottschiller/SoundManager2.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/scottschiller/SoundManager2.git",
     "basePath": "",
     "files": [
       "script/soundmanager2.js",

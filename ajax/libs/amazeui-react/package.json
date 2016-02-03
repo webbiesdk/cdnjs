@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/amazeui/amazeui-react.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/amazeui/amazeui-react.git",
     "basePath": "dist",
     "files": [
       "**/*"

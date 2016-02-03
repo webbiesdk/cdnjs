@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ludo/jquery-treetable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ludo/jquery-treetable.git",
     "basePath": "",
     "files": [
       "jquery.treetable*.js",

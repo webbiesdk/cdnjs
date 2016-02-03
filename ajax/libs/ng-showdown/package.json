@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/showdownjs/ng-showdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/showdownjs/ng-showdown.git",
     "basePath": "dist/",
     "files": [
       "**/*"

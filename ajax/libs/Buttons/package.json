@@ -15,7 +15,7 @@
   "license": "Apache License v2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alexwolfe/Buttons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/alexwolfe/Buttons.git",
     "basePath": "",
     "files": [
       "js/buttons*.js",

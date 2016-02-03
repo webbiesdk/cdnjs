@@ -20,7 +20,7 @@
   "homepage": "https://github.com/vukicevic/crunch",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vukicevic/crunch.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vukicevic/crunch.git",
     "basePath": "",
     "files": [
       "crunch*.js"

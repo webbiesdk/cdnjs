@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/blivesta/drawer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/blivesta/drawer.git",
     "basePath": "dist",
     "files": [
       "**/*"

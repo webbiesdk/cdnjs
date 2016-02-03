@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ecomfe/echarts.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ecomfe/echarts.git",
     "basePath": "build/dist",
     "files": [
       "**/*"

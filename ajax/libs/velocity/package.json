@@ -8,7 +8,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/julianshapiro/velocity.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/julianshapiro/velocity.git",
     "basePath": "/",
     "files": [
       "velocity.js",

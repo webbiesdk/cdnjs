@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bootcards/bootcards.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bootcards/bootcards.git",
     "basePath": "/dist/",
     "files": [
       "**/*"

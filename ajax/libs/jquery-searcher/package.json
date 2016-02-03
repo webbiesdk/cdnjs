@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lloiser/jquery-searcher.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lloiser/jquery-searcher.git",
     "basePath": "dist/",
     "files": [
       "*.js"

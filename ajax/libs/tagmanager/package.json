@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/max-favilli/tagmanager.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/max-favilli/tagmanager.git",
     "basePath": "",
     "files": [
       "tagmanager.js",

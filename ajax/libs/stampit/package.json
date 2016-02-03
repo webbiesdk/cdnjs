@@ -28,7 +28,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/stampit-org/stampit-bower.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/stampit-org/stampit-bower.git",
     "basePath": "",
     "files": [
       "stampit.js",

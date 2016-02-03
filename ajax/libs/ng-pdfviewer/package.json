@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/akrennmair/ng-pdfviewer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/akrennmair/ng-pdfviewer.git",
     "basePath": "dist/",
     "files": [
       "**/*"

@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Vestride/Shuffle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Vestride/Shuffle.git",
     "basePath": "dist",
     "files": [
       "**/*"

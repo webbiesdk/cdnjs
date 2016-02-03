@@ -17,7 +17,7 @@
   "homepage": "https://github.com/vuejs/vue-resource#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vuejs/vue-resource.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vuejs/vue-resource.git",
     "basePath": "dist",
     "files": [
       "*"

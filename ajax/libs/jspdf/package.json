@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/MrRio/jsPDF.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/MrRio/jsPDF.git",
     "basePath": "dist",
     "files": [
       "*"

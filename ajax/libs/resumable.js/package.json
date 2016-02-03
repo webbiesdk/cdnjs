@@ -6,7 +6,7 @@
   "homepage": "http://www.resumablejs.com/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/23/resumable.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/23/resumable.js.git",
     "basePath": "",
     "files": [
       "resumable.js"

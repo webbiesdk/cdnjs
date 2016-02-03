@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/terebentina/sco.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/terebentina/sco.js.git",
     "basePath": "",
     "files": [
       "css/sco*.css",

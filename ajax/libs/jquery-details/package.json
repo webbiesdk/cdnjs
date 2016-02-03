@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mathiasbynens/jquery-details.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mathiasbynens/jquery-details.git",
     "basePath": "",
     "files": [
       "jquery.details*.js"

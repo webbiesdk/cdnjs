@@ -19,7 +19,7 @@
   "homepage": "http://www.ag-grid.com/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ceolter/ag-grid.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ceolter/ag-grid.git",
     "basePath": "dist",
     "files": [
       "**/*.+(js|css)"

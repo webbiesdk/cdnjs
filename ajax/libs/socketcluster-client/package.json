@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/SocketCluster/socketcluster-client.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/SocketCluster/socketcluster-client.git",
     "basePath": "",
     "files": [
       "socketcluster*.js"

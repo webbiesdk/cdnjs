@@ -42,7 +42,7 @@
   "homepage": "https://github.com/benjamine/jsondiffpatch",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/benjamine/jsondiffpatch.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/benjamine/jsondiffpatch.git",
     "basePath": "public/build",
     "files": [
       "jsondiffpatch*"

@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mozilla/metrics-graphics.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mozilla/metrics-graphics.git",
     "basePath": "dist",
     "files": [
       "*"

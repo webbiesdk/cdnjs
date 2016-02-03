@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pineconellc/angular-foundation-bower.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/pineconellc/angular-foundation-bower.git",
     "basePath": "",
     "files": [
       "mm-foundation*.js"

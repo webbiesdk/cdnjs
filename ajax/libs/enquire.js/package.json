@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WickyNilliams/enquire.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WickyNilliams/enquire.js.git",
     "basePath": "dist",
     "files": [
       "*"

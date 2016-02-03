@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marceljuenemann/angular-drag-and-drop-lists.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marceljuenemann/angular-drag-and-drop-lists.git",
     "basePath": "",
     "files": [
       "angular-drag-and-drop-lists*.js"

@@ -28,7 +28,7 @@
   "namespace": "WebTorrent",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/feross/webtorrent.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/feross/webtorrent.git",
     "basePath": "",
     "files": [
       "webtorrent.min.js"

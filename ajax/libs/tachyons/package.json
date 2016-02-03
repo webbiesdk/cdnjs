@@ -19,7 +19,7 @@
   "filename": "tachyons.min.css",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tachyons-css/tachyons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tachyons-css/tachyons.git",
     "basePath": "css",
     "files": [
       "tachyons.css",

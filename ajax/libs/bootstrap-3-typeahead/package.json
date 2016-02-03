@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bassjobsen/Bootstrap-3-Typeahead.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bassjobsen/Bootstrap-3-Typeahead.git",
     "basePath": "",
     "files": [
       "bootstrap3-typeahead*.js"

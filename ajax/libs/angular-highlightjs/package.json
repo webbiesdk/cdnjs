@@ -17,7 +17,7 @@
   "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pc035860/angular-highlightjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/pc035860/angular-highlightjs.git",
     "basePath": "build/",
     "files": [
       "*.js"

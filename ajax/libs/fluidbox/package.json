@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/terrymun/Fluidbox.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/terrymun/Fluidbox.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vitalets/checklist-model.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vitalets/checklist-model.git",
     "basePath": "",
     "files": [
       "checklist-model*.js"

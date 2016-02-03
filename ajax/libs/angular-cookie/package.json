@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ivpusic/angular-cookie.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ivpusic/angular-cookie.git",
     "basePath": "",
     "files": [
       "angular-cookie*.js"

@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jedrzejchalubek/Glide.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jedrzejchalubek/Glide.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chenglou/react-motion.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/chenglou/react-motion.git",
     "basePath": "lib",
     "files": [
       "Spring*.js"

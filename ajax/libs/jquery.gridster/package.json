@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ducksboard/gridster.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ducksboard/gridster.js.git",
     "basePath": "dist/",
     "files": [
       "**/*"

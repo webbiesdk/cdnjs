@@ -35,7 +35,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/moxiecode/plupload.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/moxiecode/plupload.git",
     "basePath": "js",
     "files": [
       "**/*"

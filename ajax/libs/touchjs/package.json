@@ -22,7 +22,7 @@
   "homepage": "http://touch.code.baidu.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Clouda-team/touchjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Clouda-team/touchjs.git",
     "basePath": "",
     "files": [
       "touch*.js"

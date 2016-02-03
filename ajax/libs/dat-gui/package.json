@@ -15,7 +15,7 @@
   "license": "Apache License, Version 2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dataarts/dat.gui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dataarts/dat.gui.git",
     "basePath": "build/",
     "files": [
       "dat.gui*.js"

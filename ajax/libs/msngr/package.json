@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/KrisSiegel/msngr.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/KrisSiegel/msngr.js.git",
     "basePath": "",
     "files": [
       "msngr*.js"

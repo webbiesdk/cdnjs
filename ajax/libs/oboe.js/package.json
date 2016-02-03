@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jimhigson/oboe.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jimhigson/oboe.js.git",
     "basePath": "dist",
     "files": [
       "oboe-browser*.js"

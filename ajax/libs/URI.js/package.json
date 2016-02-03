@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/medialize/URI.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/medialize/URI.js.git",
     "basePath": "src",
     "files": [
       "IPv6.js",

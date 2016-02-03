@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/twitter/twemoji.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/twitter/twemoji.git",
     "basePath": "",
     "files": [
       "16x16/*",

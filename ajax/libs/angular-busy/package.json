@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cgross/angular-busy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cgross/angular-busy.git",
     "basePath": "dist/",
     "files": [
       "angular-busy.js",

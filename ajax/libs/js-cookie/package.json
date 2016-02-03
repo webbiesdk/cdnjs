@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/js-cookie/js-cookie.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/js-cookie/js-cookie.git",
     "basePath": "src",
     "files": [
       "js.cookie.js"

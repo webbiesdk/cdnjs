@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/najlepsiwebdesigner/foundation-datepicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/najlepsiwebdesigner/foundation-datepicker.git",
     "basePath": "",
     "files": [
       "js/foundation-datepicker.min.js",

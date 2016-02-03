@@ -9,7 +9,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lipis/flag-icon-css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lipis/flag-icon-css.git",
     "basePath": "",
     "files": [
       "css/*",

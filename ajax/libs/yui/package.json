@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/yui/yui3.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/yui/yui3.git",
     "basePath": "build",
     "files": [
       "**/*"

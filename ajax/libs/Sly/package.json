@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/darsain/sly.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/darsain/sly.git",
     "basePath": "dist",
     "files": [
       "**/*"

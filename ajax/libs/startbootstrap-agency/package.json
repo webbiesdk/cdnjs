@@ -11,7 +11,7 @@
   "license": "Apache",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/IronSummitMedia/startbootstrap-agency.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/IronSummitMedia/startbootstrap-agency.git",
     "basePath": "",
     "files": [
       "js/agency.js",

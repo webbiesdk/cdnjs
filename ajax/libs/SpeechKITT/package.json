@@ -23,7 +23,7 @@
   "homepage": "https://github.com/TalAter/SpeechKITT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/TalAter/SpeechKITT.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/TalAter/SpeechKITT.git",
     "basePath": "dist",
     "files": [
       "**/*"

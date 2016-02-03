@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/simplabs/ember-simple-auth-component.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/simplabs/ember-simple-auth-component.git",
     "basePath": "",
     "files": [
       "simple-auth*.js"

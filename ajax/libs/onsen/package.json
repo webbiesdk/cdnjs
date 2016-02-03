@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/OnsenUI/OnsenUI.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/OnsenUI/OnsenUI.git",
     "basePath": "build/",
     "files": [
       "js/*",

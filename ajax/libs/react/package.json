@@ -17,7 +17,7 @@
   "npmName": "react",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/reactjs/react-bower.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/reactjs/react-bower.git",
     "basePath": "",
     "files": [
       "*.js"

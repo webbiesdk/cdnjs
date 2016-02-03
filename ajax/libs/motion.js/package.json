@@ -9,7 +9,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/usablica/motion.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/usablica/motion.js.git",
     "basePath": "",
     "files": [
       "motion.js"

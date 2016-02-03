@@ -32,7 +32,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BeSite/jQuery.dotdotdot.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/BeSite/jQuery.dotdotdot.git",
     "basePath": "src/js",
     "files": [
       "*.js"

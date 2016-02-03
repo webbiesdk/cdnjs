@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/videogular/bower-videogular.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/videogular/bower-videogular.git",
     "basePath": "",
     "files": [
       "videogular*.js"

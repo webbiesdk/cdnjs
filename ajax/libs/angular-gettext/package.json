@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rubenv/angular-gettext.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rubenv/angular-gettext.git",
     "basePath": "dist",
     "files": [
       "**/*"

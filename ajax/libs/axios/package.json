@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mzabriskie/axios",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mzabriskie/axios.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mzabriskie/axios.git",
     "basePath": "dist",
     "files": [
       "**/*"

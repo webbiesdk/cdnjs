@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mikehostetler/amplify.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mikehostetler/amplify.git",
     "basePath": "lib",
     "files": [
       "*"

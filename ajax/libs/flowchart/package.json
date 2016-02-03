@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/adrai/flowchart.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/adrai/flowchart.js.git",
     "basePath": "release",
     "files": [
       "flowchart*.+(js|map)"

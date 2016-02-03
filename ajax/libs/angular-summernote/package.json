@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/summernote/angular-summernote.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/summernote/angular-summernote.git",
     "basePath": "dist",
     "files": [
       "**/*"

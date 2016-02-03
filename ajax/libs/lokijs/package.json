@@ -21,7 +21,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/techfort/LokiJS.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/techfort/LokiJS.git",
     "basePath": "build",
     "files": [
       "**/*"

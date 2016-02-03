@@ -17,7 +17,7 @@
   "homepage": "http://l-lin.github.io/font-awesome-animation/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/l-lin/font-awesome-animation.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/l-lin/font-awesome-animation.git",
     "basePath": "dist",
     "files": [
       "**/*"

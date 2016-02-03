@@ -26,7 +26,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/SGrondin/bottleneck.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/SGrondin/bottleneck.git",
     "basePath": "",
     "files": [
       "bottleneck*.js"

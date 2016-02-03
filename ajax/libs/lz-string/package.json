@@ -21,7 +21,7 @@
   "author": "pieroxy <pieroxy@pieroxy.net>",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pieroxy/lz-string.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/pieroxy/lz-string.git",
     "basePath": "libs/",
     "files": [
       "lz-string.js",

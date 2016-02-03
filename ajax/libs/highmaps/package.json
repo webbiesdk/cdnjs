@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/highslide-software/highmaps-release.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/highslide-software/highmaps-release.git",
     "basePath": "",
     "files": [
       "**/*.+(css|js|png)"

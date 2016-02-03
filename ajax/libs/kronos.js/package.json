@@ -17,7 +17,7 @@
   "filename": "kronos.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Locu/chronology.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Locu/chronology.git",
     "basePath": "kronos.js",
     "files": [
       "kronos.js",

@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/patrickmarabeas/ng-FitText.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/patrickmarabeas/ng-FitText.js.git",
     "basePath": "src",
     "files": [
       "ng-FitText*.js"

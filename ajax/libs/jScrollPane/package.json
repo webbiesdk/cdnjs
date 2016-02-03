@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vitch/jScrollPane.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vitch/jScrollPane.git",
     "basePath": "",
     "files": [
       "script/jquery.jscrollpane.min.js",

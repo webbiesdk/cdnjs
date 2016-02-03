@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jsmreese/moment-duration-format.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jsmreese/moment-duration-format.git",
     "basePath": "lib/",
     "files": [
       "moment-duration-format*.js"

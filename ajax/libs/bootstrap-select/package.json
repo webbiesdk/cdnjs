@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/silviomoreto/bootstrap-select.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/silviomoreto/bootstrap-select.git",
     "basePath": "dist/",
     "files": [
       "**/*"

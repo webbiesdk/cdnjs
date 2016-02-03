@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chriso/validator.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/chriso/validator.js.git",
     "basePath": "",
     "files": [
       "validator*.js"

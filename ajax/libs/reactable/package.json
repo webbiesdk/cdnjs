@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/glittershark/reactable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/glittershark/reactable.git",
     "basePath": "build",
     "files": [
       "reactable*.js"

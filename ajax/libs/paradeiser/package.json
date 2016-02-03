@@ -16,7 +16,7 @@
   "homepage": "https://github.com/lucidlemon/paradeiser",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lucidlemon/paradeiser.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lucidlemon/paradeiser.git",
     "basePath": "dist",
     "files": [
       "**/*"

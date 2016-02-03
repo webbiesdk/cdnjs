@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/troolee/gridstack.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/troolee/gridstack.js.git",
     "basePath": "dist",
     "files": [
       "*"

@@ -17,7 +17,7 @@
   "homepage": "https://github.com/STRML/textFit",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/STRML/textFit.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/STRML/textFit.git",
     "basePath": "",
     "files": [
       "textFit*.js"

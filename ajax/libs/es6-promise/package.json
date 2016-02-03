@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jakearchibald/es6-promise.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jakearchibald/es6-promise.git",
     "basePath": "dist",
     "files": [
       "**/*"

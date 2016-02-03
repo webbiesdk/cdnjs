@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/processing-js/processing-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/processing-js/processing-js.git",
     "files": [
       "processing.min.js",
       "processing.js"

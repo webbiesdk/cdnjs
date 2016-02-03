@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/uxder/Radio.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/uxder/Radio.git",
     "basePath": "",
     "files": [
       "radio*.js"

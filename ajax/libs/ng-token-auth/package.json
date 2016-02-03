@@ -21,7 +21,7 @@
   "license": "WTFPL",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lynndylanhurley/ng-token-auth.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lynndylanhurley/ng-token-auth.git",
     "basePath": "dist",
     "files": [
       "*"

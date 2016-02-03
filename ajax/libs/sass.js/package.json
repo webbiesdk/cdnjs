@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/medialize/sass.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/medialize/sass.js.git",
     "basePath": "dist",
     "files": [
       "*.js"

@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/artch/angular-route-segment.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/artch/angular-route-segment.git",
     "basePath": "build/",
     "files": [
       "*"

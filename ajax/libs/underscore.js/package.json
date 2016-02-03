@@ -11,7 +11,7 @@
   "namespace": "_",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jashkenas/underscore.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jashkenas/underscore.git",
     "basePath": "",
     "files": [
       "underscore*"

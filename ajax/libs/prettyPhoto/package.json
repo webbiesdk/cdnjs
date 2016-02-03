@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/scaron/prettyphoto.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/scaron/prettyphoto.git",
     "basePath": "",
     "files": [
       "js/jquery.prettyPhoto*.js",

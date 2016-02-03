@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ichord/At.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ichord/At.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vissense/vissense.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vissense/vissense.git",
     "basePath": "dist",
     "files": [
       "**/*"

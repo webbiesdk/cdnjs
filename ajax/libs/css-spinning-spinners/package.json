@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BillyNate/css-spinning-spinners.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/BillyNate/css-spinning-spinners.git",
     "basePath": "dist/css",
     "files": [
       "*.css"

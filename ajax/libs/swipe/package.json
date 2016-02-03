@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/thebird/Swipe.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/thebird/Swipe.git",
     "basePath": "",
     "files": [
       "swipe*.js"

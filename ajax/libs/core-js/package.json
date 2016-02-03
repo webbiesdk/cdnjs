@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/zloirock/core-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/zloirock/core-js.git",
     "basePath": "client",
     "files": [
       "core.js",

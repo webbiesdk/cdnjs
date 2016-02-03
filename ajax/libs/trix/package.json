@@ -17,7 +17,7 @@
   "homepage": "http://trix-editor.org/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/basecamp/trix.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/basecamp/trix.git",
     "basePath": "dist",
     "files": [
       "**/*"

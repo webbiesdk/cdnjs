@@ -10,7 +10,7 @@
   "author": "Tomas Kirda",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/devbridge/jQuery-Autocomplete.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/devbridge/jQuery-Autocomplete.git",
     "basePath": "dist/",
     "files": [
       "jquery.autocomplete.min.js",

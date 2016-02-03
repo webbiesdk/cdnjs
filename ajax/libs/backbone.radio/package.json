@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marionettejs/backbone.radio.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marionettejs/backbone.radio.git",
     "basePath": "build",
     "files": [
       "*"

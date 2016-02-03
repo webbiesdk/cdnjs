@@ -24,7 +24,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/prrashi/rateYo.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/prrashi/rateYo.git",
     "basePath": "min",
     "files": [
       "jquery.rateyo*.+(js|map|css)"

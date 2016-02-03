@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/noahcooper/luminateExtend.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/noahcooper/luminateExtend.git",
     "basePath": "",
     "files": [
       "luminateExtend.js",

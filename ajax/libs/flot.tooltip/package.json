@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/krzysu/flot.tooltip.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/krzysu/flot.tooltip.git",
     "basePath": "js",
     "files": [
       "jquery.flot.tooltip.js",

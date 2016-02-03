@@ -19,7 +19,7 @@
   "homepage": "https://github.com/vdw/HideSeek",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vdw/HideSeek.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vdw/HideSeek.git",
     "basePath": "",
     "files": [
       "jquery.hideseek*.js"

@@ -16,7 +16,7 @@
   "homepage": "http://justgoscha.github.io/allmighty-autocomplete/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/geoperez/allmighty-autocomplete.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/geoperez/allmighty-autocomplete.git",
     "basePath": "dist/",
     "files": [
       "*.js",

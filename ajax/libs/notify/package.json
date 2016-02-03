@@ -10,7 +10,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/notifyjs/notifyjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/notifyjs/notifyjs.git",
     "basePath": "dist/",
     "files": [
       "**/*"

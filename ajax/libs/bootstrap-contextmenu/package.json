@@ -15,7 +15,7 @@
   "homepage": "https://github.com/sydcanem/bootstrap-contextmenu",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sydcanem/bootstrap-contextmenu.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sydcanem/bootstrap-contextmenu.git",
     "basePath": "",
     "files": [
       "bootstrap-contextmenu*.js"

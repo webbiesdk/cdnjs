@@ -26,7 +26,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dimsemenov/Magnific-Popup.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dimsemenov/Magnific-Popup.git",
     "basePath": "dist",
     "files": [
       "*"

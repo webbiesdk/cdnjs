@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mailcheck/mailcheck.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mailcheck/mailcheck.git",
     "basePath": "src",
     "files": [
       "mailcheck*.js"

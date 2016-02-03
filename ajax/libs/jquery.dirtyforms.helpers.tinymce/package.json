@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/NightOwl888/jquery.dirtyforms.helpers.tinymce.dist.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/NightOwl888/jquery.dirtyforms.helpers.tinymce.dist.git",
     "basePath": "",
     "files": [
       "jquery.dirtyforms.helpers.tinymce*.+(js|map)"

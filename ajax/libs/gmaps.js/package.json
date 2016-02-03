@@ -10,7 +10,7 @@
   "homepage": "http://hpneo.github.io/gmaps/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hpneo/gmaps.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hpneo/gmaps.git",
     "basePath": "",
     "files": [
       "gmaps.js",

@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/GianlucaGuarini/Tocca.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/GianlucaGuarini/Tocca.js.git",
     "basePath": "",
     "files": [
       "Tocca.js",

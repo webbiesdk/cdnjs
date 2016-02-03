@@ -18,7 +18,7 @@
   "homepage": "https://github.com/vuejs/vue-router#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vuejs/vue-router.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vuejs/vue-router.git",
     "basePath": "dist",
     "files": [
       "**/*"

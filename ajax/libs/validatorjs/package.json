@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ppoffice/validator.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ppoffice/validator.js.git",
     "basePath": "dist/",
     "files": [
       "**/*"

@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chjj/marked.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/chjj/marked.git",
     "basePath": "lib",
     "files": [
       "marked.js"

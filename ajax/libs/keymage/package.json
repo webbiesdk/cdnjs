@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/piranha/keymage.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/piranha/keymage.git",
     "basePath": "",
     "files": [
       "keymage.js",

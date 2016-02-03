@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/sortable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/sortable.git",
     "basePath": "",
     "files": [
       "css/**/sortable*",

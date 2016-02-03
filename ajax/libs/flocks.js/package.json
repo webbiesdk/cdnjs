@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/StoneCypher/flocks.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/StoneCypher/flocks.js.git",
     "basePath": "dist",
     "files": [
       "flocks.js",

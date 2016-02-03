@@ -15,7 +15,7 @@
   "homepage": "https://github.com/desandro/classie",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/desandro/classie.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/desandro/classie.git",
     "basePath": "",
     "files": [
       "classie.js"

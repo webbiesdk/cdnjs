@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jsxgraph/jsxgraph.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jsxgraph/jsxgraph.git",
     "basePath": "update_cdnjs",
     "files": [
       "*"

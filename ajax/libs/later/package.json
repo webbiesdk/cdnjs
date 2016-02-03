@@ -17,7 +17,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bunkat/later.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bunkat/later.git",
     "basePath": "",
     "files": [
       "later*.+(css|js)"

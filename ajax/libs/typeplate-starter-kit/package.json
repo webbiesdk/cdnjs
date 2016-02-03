@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/typeplate/starter-kit.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/typeplate/starter-kit.git",
     "basePath": "",
     "files": [
       "css/**/typeplate*.css"

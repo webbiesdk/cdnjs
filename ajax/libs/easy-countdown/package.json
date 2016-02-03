@@ -21,7 +21,7 @@
   "homepage": "https://github.com/rendro/countdown",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rendro/countdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rendro/countdown.git",
     "basePath": "dest",
     "files": [
       "**/*"

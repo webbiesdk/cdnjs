@@ -22,7 +22,7 @@
   "filename": "hello.all.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/MrSwitch/hello.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/MrSwitch/hello.js.git",
     "basePath": "dist",
     "files": [
       "*"

@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/malsup/form.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/malsup/form.git",
     "basePath": "",
     "files": [
       "jquery.form.js"

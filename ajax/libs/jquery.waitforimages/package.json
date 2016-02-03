@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alexanderdickson/waitForImages.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/alexanderdickson/waitForImages.git",
     "basePath": "dist",
     "files": [
       "**/*"

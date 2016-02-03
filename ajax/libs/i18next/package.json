@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/i18next/i18next.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/i18next/i18next.git",
     "basePath": "",
     "files": [
       "i18next.*.js",

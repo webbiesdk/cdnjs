@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fgnass/spin.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/fgnass/spin.js.git",
     "basePath": "",
     "files": [
       "spin.js",

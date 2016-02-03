@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/davatron5000/FitText.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/davatron5000/FitText.js.git",
     "basePath": "",
     "files": [
       "jquery.fittext*.js"

@@ -19,7 +19,7 @@
   "homepage": "https://github.com/trinary/d3-transform",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/trinary/d3-transform.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/trinary/d3-transform.git",
     "basePath": "src",
     "files": [
       "d3-transform*.js"

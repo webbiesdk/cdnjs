@@ -34,7 +34,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/malsup/blockui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/malsup/blockui.git",
     "basePath": "",
     "files": [
       "jquery.blockUI*.js"

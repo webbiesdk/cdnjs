@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kireerik/FlipDiv.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kireerik/FlipDiv.git",
     "basePath": "dist",
     "files": [
       "*.js"

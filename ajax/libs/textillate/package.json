@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jschr/textillate.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jschr/textillate.git",
     "basePath": "",
     "files": [
       "jquery.textillate*.js"

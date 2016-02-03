@@ -10,7 +10,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/usablica/label.css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/usablica/label.css.git",
     "basePath": "css",
     "files": [
       "*"

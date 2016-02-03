@@ -31,7 +31,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bjornd/jvectormap.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bjornd/jvectormap.git",
     "basePath": "",
     "files": [
       "jquery-jvectormap*.+(css|js)"

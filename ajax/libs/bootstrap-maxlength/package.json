@@ -20,7 +20,7 @@
   "author": "Maurizio Napoleoni @mimonap",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mimo84/bootstrap-maxlength.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mimo84/bootstrap-maxlength.git",
     "basePath": "src",
     "files": [
       "bootstrap-maxlength*.js"

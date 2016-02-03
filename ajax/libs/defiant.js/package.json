@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hbi99/defiant.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hbi99/defiant.js.git",
     "basePath": "dist",
     "files": [
       "defiant.js",

@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jdorn/json-editor.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jdorn/json-editor.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -10,7 +10,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/shepherd.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/shepherd.git",
     "basePath": "dist",
     "files": [
       "**/shepherd*"

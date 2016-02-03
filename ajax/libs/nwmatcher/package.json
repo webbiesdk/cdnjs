@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dperini/nwmatcher.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dperini/nwmatcher.git",
     "basePath": "src/",
     "files": [
       "nwmatcher*.js"

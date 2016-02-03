@@ -9,7 +9,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/linkedin/hopscotch.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/linkedin/hopscotch.git",
     "basePath": "dist",
     "files": [
       "**/*"

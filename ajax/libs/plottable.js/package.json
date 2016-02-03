@@ -25,7 +25,7 @@
   "author": "Palantir Technologies",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/palantir/plottable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/palantir/plottable.git",
     "basePath": "",
     "files": [
       "plottable.css",

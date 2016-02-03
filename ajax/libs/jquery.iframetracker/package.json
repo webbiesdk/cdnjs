@@ -20,7 +20,7 @@
   "homepage": "https://github.com/vincepare/iframeTracker-jquery",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vincepare/iframeTracker-jquery.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vincepare/iframeTracker-jquery.git",
     "basePath": "",
     "files": [
       "jquery.iframetracker*.js"

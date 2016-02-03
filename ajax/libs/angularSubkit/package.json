@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/SubKit/angularsubkit.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/SubKit/angularsubkit.js.git",
     "basePath": "",
     "files": [
       "angularsubkit.min.js",

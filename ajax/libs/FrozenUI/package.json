@@ -12,7 +12,7 @@
   "description": "为移动端web而生",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/frozenui/frozenui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/frozenui/frozenui.git",
     "basePath": "dist",
     "files": [
       "**/*"

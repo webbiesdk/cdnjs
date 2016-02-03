@@ -28,7 +28,7 @@
   "filename": "fullcalendar.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fullcalendar/fullcalendar.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/fullcalendar/fullcalendar.git",
     "basePath": "dist/",
     "files": [
       "**/*"

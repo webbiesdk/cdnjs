@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/elo80ka/django-dynamic-formset.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/elo80ka/django-dynamic-formset.git",
     "basePath": "src/",
     "files": [
       "jquery.formset*.js"

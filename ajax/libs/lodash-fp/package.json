@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lodash/lodash-fp.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lodash/lodash-fp.git",
     "basePath": "dist",
     "files": [
       "**/*"

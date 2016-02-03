@@ -16,7 +16,7 @@
   "homepage": "https://github.com/ccampbell/gator",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ccampbell/gator.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ccampbell/gator.git",
     "basePath": "",
     "files": [
       "gator*.js"

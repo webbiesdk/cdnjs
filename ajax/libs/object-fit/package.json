@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/anselmh/object-fit.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/anselmh/object-fit.git",
     "basePath": "dist",
     "files": [
       "polyfill.object-fit*.js",

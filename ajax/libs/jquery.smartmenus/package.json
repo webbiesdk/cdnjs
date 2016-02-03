@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vadikom/smartmenus.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/vadikom/smartmenus.git",
     "basePath": "dist/",
     "files": [
       "**/*.+(css|js)"

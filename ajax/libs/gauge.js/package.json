@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bernii/gauge.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bernii/gauge.js.git",
     "basePath": "dist",
     "files": [
       "**/*.js"

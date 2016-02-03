@@ -27,7 +27,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rpominov/kefir.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rpominov/kefir.git",
     "basePath": "dist",
     "files": [
       "**/*"

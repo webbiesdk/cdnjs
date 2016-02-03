@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/Avgrund.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hakimel/Avgrund.git",
     "basePath": "",
     "files": [
       "css/avgrund*",

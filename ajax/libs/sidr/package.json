@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/artberri/sidr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/artberri/sidr.git",
     "basePath": "dist/",
     "files": [
       "jquery.sidr.min.js",

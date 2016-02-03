@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dailymotion/hls.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dailymotion/hls.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

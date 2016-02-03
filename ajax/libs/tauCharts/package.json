@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/TargetProcess/tauCharts.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/TargetProcess/tauCharts.git",
     "basePath": "build/production",
     "files": [
       "**/*"

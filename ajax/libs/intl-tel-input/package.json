@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jackocnr/intl-tel-input.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jackocnr/intl-tel-input.git",
     "basePath": "build/",
     "files": [
       "js/intlTelInput*.js",

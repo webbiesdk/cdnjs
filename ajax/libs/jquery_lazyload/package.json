@@ -13,7 +13,7 @@
   "author": "Mika Tuupola <tuupola@appelsiini.net>",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tuupola/jquery_lazyload.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/tuupola/jquery_lazyload.git",
     "basePath": "",
     "files": [
       "jquery.lazyload.*"

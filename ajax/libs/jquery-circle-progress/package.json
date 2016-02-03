@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kottenator/jquery-circle-progress.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kottenator/jquery-circle-progress.git",
     "basePath": "dist",
     "files": [
       "**/*"

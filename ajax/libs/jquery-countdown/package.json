@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kbwood/countdown.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/kbwood/countdown.git",
     "basePath": "",
     "files": [
       "jquery.+(plugin|countdown)*.+(js|css)"

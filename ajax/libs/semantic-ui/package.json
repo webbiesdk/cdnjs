@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Semantic-Org/Semantic-UI.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Semantic-Org/Semantic-UI.git",
     "basePath": "dist",
     "files": [
       "**/*"

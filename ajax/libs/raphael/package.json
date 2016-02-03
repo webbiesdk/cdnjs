@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/DmitryBaranovskiy/raphael.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/DmitryBaranovskiy/raphael.git",
     "basePath": "",
     "files": [
       "raphael-min.js",

@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/revolunet/angular-google-analytics.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/revolunet/angular-google-analytics.git",
     "basePath": "dist",
     "files": [
       "**/*"

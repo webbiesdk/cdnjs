@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/RubyLouvre/avalon.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/RubyLouvre/avalon.git",
     "basePath": "dist",
     "files": [
       "**/*"

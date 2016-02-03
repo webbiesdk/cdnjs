@@ -13,7 +13,7 @@
   "license": "Mozilla public license",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/openbrainsrc/Radian.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/openbrainsrc/Radian.git",
     "basePath": "",
     "files": [
       "radian*.+(js|css)"

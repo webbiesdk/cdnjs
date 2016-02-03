@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jonobr1/two.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jonobr1/two.js.git",
     "basePath": "build",
     "files": [
       "two*.js"

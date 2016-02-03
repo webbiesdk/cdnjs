@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/IonDen/ion.rangeSlider.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/IonDen/ion.rangeSlider.git",
     "basePath": "",
     "files": [
       "js/ion.rangeSlider*.js",

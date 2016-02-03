@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/swagger-api/swagger-ui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/swagger-api/swagger-ui.git",
     "basePath": "dist/",
     "files": [
       "swagger-ui.*",

@@ -23,7 +23,7 @@
   "filename": "postscribe.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/krux/postscribe.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/krux/postscribe.git",
     "basePath": "dist",
     "files": [
       "*"

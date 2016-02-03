@@ -14,7 +14,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mroderick/PubSubJS.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mroderick/PubSubJS.git",
     "basePath": "src/",
     "files": [
       "pubsub*.js"

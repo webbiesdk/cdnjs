@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/firebase/angularfire.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/firebase/angularfire.git",
     "basePath": "dist",
     "files": [
       "angularfire.js",

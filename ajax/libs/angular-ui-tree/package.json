@@ -21,7 +21,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui-tree/angular-ui-tree.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angular-ui-tree/angular-ui-tree.git",
     "basePath": "dist/",
     "files": [
       "**/*"

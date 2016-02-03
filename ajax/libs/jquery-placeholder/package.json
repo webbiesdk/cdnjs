@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mathiasbynens/jquery-placeholder.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mathiasbynens/jquery-placeholder.git",
     "basePath": "",
     "files": [
       "jquery.placeholder.js",

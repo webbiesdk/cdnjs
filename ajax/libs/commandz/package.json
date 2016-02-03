@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/EtienneLem/commandz.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/EtienneLem/commandz.git",
     "basePath": "",
     "files": [
       "commandz.min.js"

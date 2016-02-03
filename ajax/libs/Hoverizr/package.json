@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/iliasiovis/Hoverizr.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/iliasiovis/Hoverizr.git",
     "basePath": "",
     "files": [
       "jquery.hoverizr.min.js",

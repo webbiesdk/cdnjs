@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Ranks/emojione.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Ranks/emojione.git",
     "basePath": "",
     "files": [
       "assets/svg/*",

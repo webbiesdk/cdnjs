@@ -18,7 +18,7 @@
   "homepage": "https://github.com/TalAter/UpUp",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/TalAter/UpUp.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/TalAter/UpUp.git",
     "basePath": "dist",
     "files": [
       "**/*.+(js|map)"

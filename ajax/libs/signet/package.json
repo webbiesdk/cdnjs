@@ -12,7 +12,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/signet.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/signet.git",
     "basePath": "",
     "files": [
       "signet.js",

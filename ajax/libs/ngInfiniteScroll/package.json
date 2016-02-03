@@ -14,7 +14,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sroze/ngInfiniteScroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sroze/ngInfiniteScroll.git",
     "basePath": "build/",
     "files": [
       "ng-infinite-scroll*.js"

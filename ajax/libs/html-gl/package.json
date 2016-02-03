@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/PixelsCommander/HTML-GL.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/PixelsCommander/HTML-GL.git",
     "basePath": "dist",
     "files": [
       "**/*"

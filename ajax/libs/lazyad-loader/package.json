@@ -21,7 +21,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/madgex/lazy-ads.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/madgex/lazy-ads.git",
     "basePath": "dist",
     "files": [
       "**/*"

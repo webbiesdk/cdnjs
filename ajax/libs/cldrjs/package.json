@@ -32,7 +32,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rxaviers/cldrjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rxaviers/cldrjs.git",
     "basePath": "/dist",
     "files": [
       "cldr.js",

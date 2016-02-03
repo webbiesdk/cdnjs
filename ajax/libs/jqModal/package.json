@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/briceburg/jqModal.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/briceburg/jqModal.git",
     "basePath": "",
     "files": [
       "jqModal*.js"

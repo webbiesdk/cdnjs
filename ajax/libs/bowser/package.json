@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ded/bowser.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ded/bowser.git",
     "basePath": "",
     "files": [
       "bowser*.js"

@@ -27,7 +27,7 @@
   "homepage": "https://github.com/jedisct1/libsodium.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jedisct1/libsodium.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jedisct1/libsodium.js.git",
     "basePath": "dist/browsers/combined",
     "files": [
       "**/*.js"

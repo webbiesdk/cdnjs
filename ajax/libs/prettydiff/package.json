@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/prettydiff/prettydiff.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/prettydiff/prettydiff.git",
     "basePath": "",
     "files": [
       "prettydiff.js",

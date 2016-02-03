@@ -26,7 +26,7 @@
   "license": "Apache License, v2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angularjs-nvd3-directives/angularjs-nvd3-directives.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angularjs-nvd3-directives/angularjs-nvd3-directives.git",
     "basePath": "dist",
     "files": [
       "**/*"

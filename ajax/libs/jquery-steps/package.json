@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rstaib/jquery-steps.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rstaib/jquery-steps.git",
     "basePath": "build",
     "files": [
       "jquery.steps*.js"

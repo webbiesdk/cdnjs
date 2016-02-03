@@ -13,7 +13,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/select.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/select.git",
     "basePath": "dist",
     "files": [
       "**/*"

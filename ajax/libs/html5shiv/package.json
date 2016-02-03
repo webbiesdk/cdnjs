@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aFarkas/html5shiv.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/aFarkas/html5shiv.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/davist11/jQuery-One-Page-Nav.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/davist11/jQuery-One-Page-Nav.git",
     "basePath": "",
     "files": [
       "jquery.nav*.js"

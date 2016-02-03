@@ -23,7 +23,7 @@
   "homepage": "https://github.com/legomushroom/mojs",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/legomushroom/mojs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/legomushroom/mojs.git",
     "basePath": "build",
     "files": [
       "mo*.js"

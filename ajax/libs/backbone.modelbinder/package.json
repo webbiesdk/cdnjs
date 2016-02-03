@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/theironcook/Backbone.ModelBinder.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/theironcook/Backbone.ModelBinder.git",
     "basePath": "",
     "files": [
       "*.js"

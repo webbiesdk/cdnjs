@@ -24,7 +24,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/brunobar79/J-I-C.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/brunobar79/J-I-C.git",
     "basePath": "dist",
     "files": [
       "**/*"

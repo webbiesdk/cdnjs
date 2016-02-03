@@ -20,7 +20,7 @@
   "homepage": "https://github.com/hongymagic/jQuery.serializeObject",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hongymagic/jQuery.serializeObject.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/hongymagic/jQuery.serializeObject.git",
     "basePath": "dist",
     "files": [
       "**/*"

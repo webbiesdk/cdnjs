@@ -12,7 +12,7 @@
   "homepage": "https://github.com/katspaugh/wavesurfer.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/katspaugh/wavesurfer.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/katspaugh/wavesurfer.js.git",
     "basePath": "dist",
     "files": [
       "**/*"

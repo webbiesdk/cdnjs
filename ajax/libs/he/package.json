@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mathiasbynens/he.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mathiasbynens/he.git",
     "basePath": "",
     "files": [
       "he*.js"

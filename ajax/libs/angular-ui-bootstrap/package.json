@@ -15,7 +15,7 @@
   "version": "1.1.2",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui/bootstrap-bower.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angular-ui/bootstrap-bower.git",
     "basePath": "",
     "files": [
       "ui-bootstrap*.js"

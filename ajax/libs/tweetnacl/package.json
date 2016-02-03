@@ -26,7 +26,7 @@
   "homepage": "https://dchest.github.io/tweetnacl-js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dchest/tweetnacl-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dchest/tweetnacl-js.git",
     "basePath": "",
     "files": [
       "nacl*.js"

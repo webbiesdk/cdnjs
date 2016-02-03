@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/getify/LABjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/getify/LABjs.git",
     "basePath": "",
     "files": [
       "LAB*.js"

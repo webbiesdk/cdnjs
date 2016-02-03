@@ -22,7 +22,7 @@
   "namespace": "_",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lodash/lodash.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lodash/lodash.git",
     "basePath": "",
     "files": [
       "lodash.js",

@@ -11,7 +11,7 @@
   "license": "MIT, GPL",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/websanova/js-url.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/websanova/js-url.git",
     "basePath": "",
     "files": [
       "url.min.js",

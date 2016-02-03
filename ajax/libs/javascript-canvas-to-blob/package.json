@@ -23,7 +23,7 @@
   "filename": "js/canvas-to-blob.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/blueimp/JavaScript-Canvas-to-Blob.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/blueimp/JavaScript-Canvas-to-Blob.git",
     "basePath": "",
     "files": [
       "js/canvas-to-blob*.js"

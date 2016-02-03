@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/miguel-perez/smoothState.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/miguel-perez/smoothState.js.git",
     "basePath": "",
     "files": [
       "jquery.smoothState*"

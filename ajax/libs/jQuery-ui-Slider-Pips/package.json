@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/simeydotme/jQuery-ui-Slider-Pips.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/simeydotme/jQuery-ui-Slider-Pips.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/marcandre/detect_swipe.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/marcandre/detect_swipe.git",
     "basePath": "",
     "files": [
       "jquery.detect_swipe.js"

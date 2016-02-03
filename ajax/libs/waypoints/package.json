@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/imakewebthings/waypoints.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/imakewebthings/waypoints.git",
     "basePath": "lib",
     "files": [
       "**/*"

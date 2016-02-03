@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rails/jquery-ujs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rails/jquery-ujs.git",
     "basePath": "src",
     "files": [
       "rails*.js"

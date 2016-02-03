@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/n3-charts/pie-chart.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/n3-charts/pie-chart.git",
     "basePath": "dist",
     "files": [
       "!(pie-chart.spec.js)"

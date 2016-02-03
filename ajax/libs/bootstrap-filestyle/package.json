@@ -21,7 +21,7 @@
   "homepage": "https://github.com/markusslima/bootstrap-filestyle#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/markusslima/bootstrap-filestyle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/markusslima/bootstrap-filestyle.git",
     "basePath": "src",
     "files": [
       "bootstrap-filestyle*.js"

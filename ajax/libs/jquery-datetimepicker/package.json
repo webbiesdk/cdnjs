@@ -21,7 +21,7 @@
   "homepage": "https://github.com/xdan/datetimepicker",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/xdan/datetimepicker.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/xdan/datetimepicker.git",
     "basePath": "",
     "files": [
       "jquery.datetimepicker*.+(css|js)"

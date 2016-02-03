@@ -10,7 +10,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Marak/faker.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Marak/faker.js.git",
     "basePath": "build/build",
     "files": [
       "**/*"

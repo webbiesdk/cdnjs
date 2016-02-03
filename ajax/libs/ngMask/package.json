@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/candreoliveira/ngMask.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/candreoliveira/ngMask.git",
     "basePath": "dist",
     "files": [
       "**/*"

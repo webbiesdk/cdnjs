@@ -20,7 +20,7 @@
   "homepage": "http://verifyjs.com/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jpillora/verifyjs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jpillora/verifyjs.git",
     "basePath": "dist",
     "files": [
       "**/*"

@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/digitalBush/jquery.maskedinput.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/digitalBush/jquery.maskedinput.git",
     "basePath": "dist",
     "files": [
       "jquery.maskedinput.js",

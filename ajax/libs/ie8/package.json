@@ -22,7 +22,7 @@
   "filename": "ie8.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/ie8.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/ie8.git",
     "basePath": "/build/",
     "files": [
       "*.js"

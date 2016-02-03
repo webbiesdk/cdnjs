@@ -13,7 +13,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/olado/doT.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/olado/doT.git",
     "basePath": "",
     "files": [
       "doT.min.js",

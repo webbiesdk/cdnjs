@@ -35,7 +35,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angulartics/angulartics.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/angulartics/angulartics.git",
     "basePath": "dist",
     "files": [
       "*"

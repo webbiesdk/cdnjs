@@ -26,7 +26,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/NightOwl888/jquery.dirtyforms.dialogs.bootstrap.dist.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/NightOwl888/jquery.dirtyforms.dialogs.bootstrap.dist.git",
     "basePath": "",
     "files": [
       "jquery.dirtyforms.dialogs.bootstrap*.+(js|map)"

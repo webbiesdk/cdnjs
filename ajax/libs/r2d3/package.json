@@ -11,7 +11,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mhemesath/r2d3.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mhemesath/r2d3.git",
     "basePath": "",
     "files": [
       "r2d3*.js"

@@ -15,7 +15,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/esvit/ng-table.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/esvit/ng-table.git",
     "basePath": "dist",
     "files": [
       "ng-table*.+(js|css|map)"

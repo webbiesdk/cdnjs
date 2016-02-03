@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gajus/swing.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/gajus/swing.git",
     "basePath": "dist/browser",
     "files": [
       "**/*"

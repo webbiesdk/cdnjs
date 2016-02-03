@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nbartlomiej/foggy.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nbartlomiej/foggy.git",
     "basePath": "",
     "files": [
       "jquery.foggy.*"

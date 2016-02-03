@@ -14,7 +14,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mojio/mojio-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mojio/mojio-js.git",
     "basePath": "/dist/cdn/",
     "files": [
       "*.js"

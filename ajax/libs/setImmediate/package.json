@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/YuzuJS/setImmediate.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/YuzuJS/setImmediate.git",
     "basePath": "",
     "files": [
       "setImmediate*.js"

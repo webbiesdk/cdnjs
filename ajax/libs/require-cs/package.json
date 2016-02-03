@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/requirejs/require-cs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/requirejs/require-cs.git",
     "basePath": "",
     "files": [
       "cs.js"

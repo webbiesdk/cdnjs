@@ -21,7 +21,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sonnyt/downCount.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/sonnyt/downCount.git",
     "basePath": "",
     "files": [
       "jquery.downCount.js"

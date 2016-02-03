@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/istvan-ujjmeszaros/bootstrap-touchspin.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/istvan-ujjmeszaros/bootstrap-touchspin.git",
     "basePath": "dist",
     "files": [
       "**/*"

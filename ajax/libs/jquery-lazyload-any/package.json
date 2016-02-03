@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/emn178/jquery-lazyload-any.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/emn178/jquery-lazyload-any.git",
     "basePath": "build/",
     "files": [
       "jquery.lazyload-any.min.js"

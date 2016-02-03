@@ -26,7 +26,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/johnpolacek/superscrollorama.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/johnpolacek/superscrollorama.git",
     "basePath": "js",
     "files": [
       "jquery.superscrollorama*.js"

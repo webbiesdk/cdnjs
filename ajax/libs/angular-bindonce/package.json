@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Pasvaz/bindonce.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Pasvaz/bindonce.git",
     "basePath": "",
     "files": [
       "bindonce*.js"

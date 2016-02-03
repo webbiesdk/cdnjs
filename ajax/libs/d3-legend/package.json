@@ -19,7 +19,7 @@
   "homepage": "http://d3-legend.susielu.com",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/susielu/d3-legend.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/susielu/d3-legend.git",
     "basePath": "",
     "files": [
       "d3-legend.js",

@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BeSite/jQuery.mmenu.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/BeSite/jQuery.mmenu.git",
     "basePath": "dist",
     "files": [
       "**/*"

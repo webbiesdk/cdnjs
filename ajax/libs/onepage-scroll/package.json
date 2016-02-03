@@ -14,7 +14,7 @@
   "license": "Attribution-ShareAlike 4.0 International",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/peachananr/onepage-scroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/peachananr/onepage-scroll.git",
     "basePath": "",
     "files": [
       "jquery.onepage-scroll*.js",

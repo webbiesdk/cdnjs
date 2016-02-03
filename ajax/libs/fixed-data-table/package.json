@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/facebook/fixed-data-table.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/facebook/fixed-data-table.git",
     "basePath": "dist",
     "files": [
       "**/*"

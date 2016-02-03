@@ -18,7 +18,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/davidmz/apng-canvas.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/davidmz/apng-canvas.git",
     "basePath": "build",
     "files": [
       "apng-canvas.min.js"

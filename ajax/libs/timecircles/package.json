@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wimbarelds/TimeCircles.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/wimbarelds/TimeCircles.git",
     "basePath": "inc/",
     "files": [
       "TimeCircles*"

@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/scdoshi/jquery-ajaxchimp.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/scdoshi/jquery-ajaxchimp.git",
     "basePath": "",
     "files": [
       "jquery.ajaxchimp*"

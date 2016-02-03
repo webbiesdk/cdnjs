@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/azoff/overscroll.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/azoff/overscroll.git",
     "basePath": "dist",
     "files": [
       "**/*"

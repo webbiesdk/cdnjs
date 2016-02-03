@@ -17,7 +17,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Wisembly/basil.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Wisembly/basil.js.git",
     "basePath": "build",
     "files": [
       "basil*.js"

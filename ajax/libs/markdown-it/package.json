@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/markdown-it/markdown-it.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/markdown-it/markdown-it.git",
     "basePath": "dist",
     "files": [
       "*"

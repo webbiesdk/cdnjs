@@ -5,7 +5,7 @@
   "description": "Diva.js is a JavaScript document image viewer designed to present multi-page documents at high resolutions.",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/DDMAL/diva.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/DDMAL/diva.js.git",
     "basePath": "/build/",
     "files": [
       "js/**/*diva*",

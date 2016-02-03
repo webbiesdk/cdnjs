@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mrdoob/three.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mrdoob/three.js.git",
     "basePath": "build",
     "files": [
       "*"

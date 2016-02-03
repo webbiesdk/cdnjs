@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dbushell/Pikaday.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dbushell/Pikaday.git",
     "basePath": "",
     "files": [
       "pikaday*.js",

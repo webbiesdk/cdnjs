@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/christopherthielen/ui-router-extras.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/christopherthielen/ui-router-extras.git",
     "basePath": "release",
     "files": [
       "**/*"

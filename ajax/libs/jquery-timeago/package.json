@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rmm5t/jquery-timeago.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/rmm5t/jquery-timeago.git",
     "basePath": "",
     "files": [
       "jquery.timeago.js"

@@ -27,7 +27,7 @@
   "filename": "query-result.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/query-result.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/query-result.git",
     "basePath": "build",
     "files": [
       "query-result.amd.js",

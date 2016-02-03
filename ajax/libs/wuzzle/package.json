@@ -17,7 +17,7 @@
   "filename": "wuzzle.min.css",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ws1/wuzzle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/ws1/wuzzle.git",
     "basePath": "dist",
     "files": [
       "**/*"

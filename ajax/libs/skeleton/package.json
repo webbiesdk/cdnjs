@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dhg/Skeleton.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/dhg/Skeleton.git",
     "basePath": "css",
     "files": [
       "skeleton*"

@@ -20,7 +20,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/electerious/basicModal.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/electerious/basicModal.git",
     "basePath": "dist",
     "files": [
       "**/*"

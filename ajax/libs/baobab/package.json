@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Yomguithereal/baobab",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Yomguithereal/baobab.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Yomguithereal/baobab.git",
     "basePath": "src",
     "files": [
       "baobab.js"

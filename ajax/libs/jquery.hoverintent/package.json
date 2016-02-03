@@ -16,7 +16,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/briancherne/jquery-hoverIntent.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/briancherne/jquery-hoverIntent.git",
     "basePath": "",
     "files": [
       "jquery.hoverIntent.js"

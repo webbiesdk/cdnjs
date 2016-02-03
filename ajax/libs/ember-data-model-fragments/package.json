@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lytics/ember-data-model-fragments.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/lytics/ember-data-model-fragments.git",
     "basePath": "dist",
     "files": [
       "**/*"

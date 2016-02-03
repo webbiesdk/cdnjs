@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jquery-boilerplate/jquery-boilerplate.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jquery-boilerplate/jquery-boilerplate.git",
     "basePath": "dist",
     "files": [
       "**/*"

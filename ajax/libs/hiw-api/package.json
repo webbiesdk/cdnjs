@@ -16,7 +16,7 @@
   "homepage": "http://developers.healthindicators.gov",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HealthIndicators/js-api.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HealthIndicators/js-api.git",
     "basePath": "Content/Scripts/API/Output/",
     "files": [
       "hiw-api.js",

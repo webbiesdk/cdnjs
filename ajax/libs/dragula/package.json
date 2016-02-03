@@ -12,7 +12,7 @@
   "homepage": "https://github.com/bevacqua/dragula",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bevacqua/dragula.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bevacqua/dragula.git",
     "basePath": "dist",
     "files": [
       "**/*"

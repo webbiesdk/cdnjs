@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fengyuanchen/cropper.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/fengyuanchen/cropper.git",
     "basePath": "dist",
     "files": [
       "cropper.css",

@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bgrins/spectrum.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/bgrins/spectrum.git",
     "basePath": "",
     "files": [
       "spectrum.css",

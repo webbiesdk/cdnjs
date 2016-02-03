@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/englishextra/16pixels.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/englishextra/16pixels.git",
     "basePath": "css/",
     "files": [
       "16pixels*"

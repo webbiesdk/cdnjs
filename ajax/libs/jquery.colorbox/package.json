@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jackmoore/colorbox.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jackmoore/colorbox.git",
     "basePath": "",
     "files": [
       "i18n/*",

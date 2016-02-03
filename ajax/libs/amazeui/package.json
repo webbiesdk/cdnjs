@@ -30,7 +30,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/amazeui/amazeui.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/amazeui/amazeui.git",
     "basePath": "dist",
     "files": [
       "**/*"

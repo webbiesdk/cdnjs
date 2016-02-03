@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Irrelon/jquery-lang-js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Irrelon/jquery-lang-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Irrelon/jquery-lang-js.git",
     "basePath": "js",
     "files": [
       "jquery-lang*.js",

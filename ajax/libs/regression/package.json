@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Tom-Alexander/regression-js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Tom-Alexander/regression-js.git",
     "basePath": "build",
     "files": [
       "regression*.js"

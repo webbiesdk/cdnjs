@@ -20,7 +20,7 @@
   "license": "BSD-2-Clause",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mozilla/nunjucks.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mozilla/nunjucks.git",
     "basePath": "browser",
     "files": [
       "nunjucks*"

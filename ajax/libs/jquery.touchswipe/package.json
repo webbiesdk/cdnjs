@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mattbryson/TouchSwipe-Jquery-Plugin.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mattbryson/TouchSwipe-Jquery-Plugin.git",
     "basePath": "",
     "files": [
       "jquery.touchSwipe*.js"

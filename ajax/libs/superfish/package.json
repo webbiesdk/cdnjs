@@ -13,7 +13,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/joeldbirch/superfish.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/joeldbirch/superfish.git",
     "basePath": "dist",
     "files": [
       "js/superfish*.js",

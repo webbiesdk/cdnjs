@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/cujojs/when.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/cujojs/when.git",
     "basePath": "",
     "files": [
       "when.js"

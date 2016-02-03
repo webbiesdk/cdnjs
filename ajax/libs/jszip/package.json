@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Stuk/jszip.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Stuk/jszip.git",
     "basePath": "dist/",
     "files": [
       "jszip.js",

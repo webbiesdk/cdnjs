@@ -21,7 +21,7 @@
   "homepage": "https://github.com/thesabbir/simple-line-icons",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/thesabbir/simple-line-icons.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/thesabbir/simple-line-icons.git",
     "basePath": "",
     "files": [
       "css/simple-line-icons.css",

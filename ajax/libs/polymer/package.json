@@ -9,7 +9,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Polymer/polymer.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/Polymer/polymer.git",
     "basePath": "",
     "files": [
       "polymer.js.map",

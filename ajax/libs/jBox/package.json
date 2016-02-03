@@ -25,7 +25,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/StephanWagner/jBox.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/StephanWagner/jBox.git",
     "basePath": "Source",
     "files": [
       "jBox*",

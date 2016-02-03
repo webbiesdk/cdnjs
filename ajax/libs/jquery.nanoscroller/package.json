@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jamesflorentino/nanoScrollerJS.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/jamesflorentino/nanoScrollerJS.git",
     "basePath": "bin/",
     "files": [
       "javascripts/jquery.nanoscroller.*",

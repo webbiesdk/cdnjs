@@ -17,7 +17,7 @@
   "homepage": "https://github.com/nouveller/ready.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nouveller/ready.js.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/nouveller/ready.js.git",
     "basePath": "dist/",
     "files": [
       "ready.min.js",

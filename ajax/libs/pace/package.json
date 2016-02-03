@@ -10,7 +10,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/pace.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/HubSpot/pace.git",
     "basePath": "",
     "files": [
       "pace.js",

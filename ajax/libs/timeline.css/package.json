@@ -17,7 +17,7 @@
   "homepage": "https://github.com/christian-fei/Timeline.css#readme",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/christian-fei/Timeline.css.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/christian-fei/Timeline.css.git",
     "basePath": "css",
     "files": [
       "timeline*.css"

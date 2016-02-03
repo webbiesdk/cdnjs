@@ -15,7 +15,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/malsup/cycle.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/malsup/cycle.git",
     "basePath": "",
     "files": [
       "jquery.cycle*.js"

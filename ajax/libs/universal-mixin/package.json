@@ -25,7 +25,7 @@
   "filename": "universal-mixin.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/universal-mixin.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/WebReflection/universal-mixin.git",
     "basePath": "build",
     "files": [
       "universal-mixin.js",

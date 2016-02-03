@@ -14,7 +14,7 @@
   "license": "BSD-3",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/johnny/jquery-sortable.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/johnny/jquery-sortable.git",
     "basePath": "source/js/",
     "files": [
       "jquery-sortable*.js"

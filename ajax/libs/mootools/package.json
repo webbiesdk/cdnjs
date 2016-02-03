@@ -23,7 +23,7 @@
   "homepage": "http://mootools.net",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mootools/mootools-core.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/mootools/mootools-core.git",
     "basePath": "dist",
     "files": [
       "mootools-core.*",

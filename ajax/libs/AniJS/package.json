@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/anijs/anijs.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/anijs/anijs.git",
     "basePath": "dist/",
     "files": [
       "**/*"

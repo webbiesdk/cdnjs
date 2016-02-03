@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/blivesta/animsition.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/blivesta/animsition.git",
     "basePath": "dist",
     "files": [
       "**/*"

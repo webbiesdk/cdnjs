@@ -17,7 +17,7 @@
   "homepage": "http://saeedalipoor.github.io/icono/",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/saeedalipoor/icono.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/saeedalipoor/icono.git",
     "basePath": "dist",
     "files": [
       "icono.min.css"

@@ -11,7 +11,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/revolunet/angular-carousel.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/revolunet/angular-carousel.git",
     "basePath": "dist",
     "files": [
       "*"

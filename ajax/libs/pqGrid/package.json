@@ -38,7 +38,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/paramquery/grid.git",
+    "target": "///home/peter/rpos/cdnjs/git-auto-update-test/paramquery/grid.git",
     "basePath": "",
     "files": [
       "pqgrid*.+(js|css)",
