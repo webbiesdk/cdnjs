@@ -1,0 +1,23 @@
+  {
+    "name": "angular-materialize",
+    "description": "Angularjs directives for Materialize CSS Framework",
+    "author": "@krescruz",
+    "version": "0.1.7",
+    "license": "MIT",
+    "repository": "https://github.com/krescruz/angular-materialize",
+    "main": "angular-materialize.min.js",
+    "dependencies": {
+      "node-materialize": "https://github.com/ryepdx/node-materialize/tarball/master"
+    },
+    "npmName": "angular-materialize",
+    "npmFileMap": [
+      {
+        "basePath": "/src",
+        "files": [
+          "angular-materialize.js",
+          "angular-materialize.min.js"
+        ]
+      }
+    ],
+    "filename": "angular-materialize.min.js"
+  }
